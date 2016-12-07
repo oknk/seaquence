@@ -4,5 +4,5 @@ collections:
   projects:
     output: true
     permalink: /:title
-baseurl: /seaquence
+# baseurl: /seaquence
 copyright: Okaynokay
