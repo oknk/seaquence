@@ -1,0 +1,6 @@
+title: Okaynokay Press Kit
+description: Okaynokay Press Kit
+collections:
+  projects:
+    output: true
+    permalink: /:title

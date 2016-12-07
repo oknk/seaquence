@@ -1,0 +1,87 @@
+title: "Okaynokay"
+founded: "2015"
+location: "SF Bay Area, CA USA"
+website: "okaynokay.xyz"
+email: "oknkstudio@gmail.com"
+press-email: "press@okaynokay.xyz"
+address:
+  - "Okaynokay"
+  - "1940 Union St., #32"
+  - "Oakland, CA 94607"
+
+social:
+  twitter: "oknkstudio"
+  instagram: "oknkstudio"
+
+description: "Okaynokay is Ryan Alexander &amp; Gabriel Dunne"
+
+history:
+  - header: "Early history"
+    text: "In the beginning."
+  - header: "After that"
+    text: "It goes on."
+
+bios:
+  - person : "Gabriel Dunne"
+    bio: "Gabriel Dunne is an artist, designer and musician whos work explores visual, audible, and physical frequencies. He work integrates a wide range of mediums including installation, sculpture, light, sound, software and live a/v performance."
+  - person: "Ryan Alexander"
+    bio: "Ryan Alexander is an artist and researcher currently focused on interactive audio/visual experience design. His recent works include generative simulations, live visual performance, spherical photography, and motion graphics experiments."
+
+# trailers:
+#   - name: "This video is nice"
+#     youtube: "7jQbITg0MSk"
+#   - name: "This one too"
+#     youtube: "0CevOaYrYDA"
+#     vimeo: "12536488"
+
+# awards:
+#   - description: "Winner in this highly relevant contest."
+#     info: "Award Location, 20 October, 1989"
+#   - description: "Nomination for this prestigious award."
+#     info: "Award Ceremony, 4 December, 1991"
+#   - description: "Winner in this highly relevant contest."
+#     info: "Award Location, 20 October, 1989"
+#   - description: "Nomination for this prestigious award."
+#     info: "Award Ceremony, 4 December, 1991"
+
+# quotes:
+#   - description: "This is a rather insignificant quote by a highly important person."
+#     name: "Person Name"
+#     website: Website
+#     link: "http://www.website.com/"
+#   - description: "An extremely positive quote from a rather insignificant person. Also great."
+#     name: "Some Guy"
+#     website: "This Page Is Visited By 12 Visitors A Month"
+#     link: "http://geocities.blog.com/"
+#   - description: "I pretend to love this game even though I do not actually understand it."
+#     name: "Pretentious Bastard"
+#     website: "Artsy Page"
+#     link: "http://art.tumblr.com/"
+#   - description: "HOLY SHIT SO AMAZING"
+#     name: "Caps Guy"
+#     website: "Angry Review"
+#     link: "http://thispage.net/angrytube"
+
+"press-can-request-copy": TRUE
+"monetization-permission": monetize
+
+people:
+  - person: "Gabriel Dunne"
+    role: "Person"
+    website: "www.gabrieldunne.com"
+  - person: "Ryan Alexander"
+    website: "www.onecm.com"
+    role: "Person"
+
+# contacts:
+#   - name: Inquiries
+#     address: "info@okaynokay.xyz"
+#   - name: Twitter
+#     address: "http://twitter.com/oknkstudio"
+#   - name: Instagram
+#     address: "http://instagram.com/oknkstudio"
+#   - name: Web
+#     address: "okaynokay.xyz"
+
+
+

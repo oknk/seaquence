@@ -1,0 +1,22 @@
+body {
+  background: #181818;
+  color: #bbb;
+}
+
+a {
+  color: #ddd;
+}
+a:active {
+  outline: none
+}
+a:hover  {
+  color: #53DFFA !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#fff;
+}
+
+.footer {
+  color:#666;
+}

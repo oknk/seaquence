@@ -1,0 +1,8 @@
+title: Seaquence
+description: Seaquence App
+collections:
+  projects:
+    output: true
+    permalink: /:title
+baseurl: /seaquence
+copyright: Okaynokay

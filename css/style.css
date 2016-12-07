@@ -1,0 +1,101 @@
+@font-face {
+  font-family: 'SeaqFont';
+  src: url('SeaqRegular.otf');
+}
+
+@media only screen and (max-device-width: 480px) {
+  header, header img {
+    width:100%;
+  }
+
+  .factsheet {
+    float:left;
+    background:#f0f;
+  }
+}
+
+@media (max-width: 767px) {}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 0.9em;
+  line-height:1.6em;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'SeaqFont', Helvetica, Arial, sans-serif;
+}
+
+h2, h3 {
+  margin-top: 1.5em;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+blockquote {
+  display: inline-block;
+}
+
+blockquote p {
+  font-size: 1.3em;
+  line-height: 1.4em;
+  margin: .2em;
+}
+
+blockquote p:before {
+  content: '“';
+}
+
+blockquote p:after {
+  content: '”';
+}
+
+blockquote footer {
+  text-align: right;
+}
+
+img {
+  max-width:600px;
+}
+
+.seaqfont {
+  font-family: 'SeaqFont', Helvetica, Arial, sans-serif;
+}
+
+.root {
+  max-width: 700px;
+  margin: auto;
+}
+
+.container { }
+
+.box {
+  max-width: 700px;
+  padding: 0 8px;
+}
+
+.footer {
+  width:100%;
+  text-align:center;
+  margin:2em auto;
+  font-size:0.9em;
+  text-transform:uppercase;
+}
+
+.iframe-container {
+  position: relative;
+  padding-bottom: 50.25%
+}
+
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  lefT: 0;
+  width: 100%;
+  height: 100%;
+}
