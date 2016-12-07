@@ -3,17 +3,6 @@
   src: url('SeaqRegular.otf');
 }
 
-@media only screen and (max-device-width: 480px) {
-  header, header img {
-    width:100%;
-  }
-
-  .factsheet {
-    float:left;
-    background:#f0f;
-  }
-}
-
 @media (max-width: 767px) {}
 
 body {
@@ -26,7 +15,10 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'SeaqFont', Helvetica, Arial, sans-serif;
+  font-weight:normal;
+  line-height:1.2em;
 }
+
 
 h2, h3 {
   margin-top: 1.5em;
@@ -37,30 +29,16 @@ a {
 }
 
 
-blockquote {
-  display: inline-block;
-}
-
-blockquote p {
-  font-size: 1.3em;
-  line-height: 1.4em;
-  margin: .2em;
-}
-
-blockquote p:before {
-  content: '“';
-}
-
-blockquote p:after {
-  content: '”';
-}
-
-blockquote footer {
-  text-align: right;
-}
-
 img {
   max-width:600px;
+}
+
+header {
+ padding: 0 2em;
+}
+
+header img {
+  width:115%;
 }
 
 .seaqfont {
@@ -76,7 +54,7 @@ img {
 
 .box {
   max-width: 700px;
-  padding: 0 8px;
+  padding: 0 2em;
 }
 
 .footer {
