@@ -5,7 +5,7 @@ permalink: /
 
 # Seaquence — Make living music!
 
-Seaquence is a unique musical sequencer environment that allows you to create soundscapes by layering collections of musical creatures. A spatialized mix emerges as only the closest creatures can be heard, resulting in a organic sonic experience that changes as you play. Visually immersive and sonically dynamic, Seaquence is a completely unique audiovisual composition environment.
+Seaquence is a unique musical sequencer app that allows you to create soundscapes by layering collections of musical creatures. A spatialized mix emerges as only the closest creatures can be heard, resulting in a organic sonic experience that changes as you play. Visually immersive and sonically dynamic, Seaquence is a completely unique audiovisual composition environment.
 
 Seaquence features a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity!
 
