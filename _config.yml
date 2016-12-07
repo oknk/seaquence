@@ -1,8 +1,7 @@
 title: Seaquence
 description: Seaquence App
+copyright: Okaynokay
 collections:
   projects:
     output: true
     permalink: /:title
-# baseurl: /seaquence
-copyright: Okaynokay
