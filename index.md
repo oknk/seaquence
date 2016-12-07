@@ -11,7 +11,7 @@ Seaquence features a pro-level synthesizer and timing engine controlled by a fun
 
 Share your creations with friends and browse what other people have made to get inspired!
 
-The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), based on an original project created by Ryan Alexander, Gabriel Dunne, Daniel Massey, and Gray Area Foundation for the Arts. See the original project at seaquence.org.
+The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), based on an original project created by Ryan Alexander, Gabriel Dunne, Daniel Massey, and Gray Area Foundation for the Arts. See the original project at [seaquence.org](http://seaquence.org).
 
 
 ## Videos
@@ -119,7 +119,7 @@ Okaynokay is Ryan Alexander and Gabriel Dunne. Their studio is in Oakland, CA.
 
 ### Ryan Alexander
 
-Ryan Alexander is an artist and researcher currently focused on interactive audio/visual experience design. His recent works include generative simulations, live visual performance, spherical photography, and motion graphics experiments.
+Ryan Alexander is an artist and researcher currently focused on interactive audio/visual experience design. His recent works include generative simulations, live visual performance, spherical photography, and motion graphics experiments. Based in San Francisco.
 
 [http://onecm.com](www)
 
