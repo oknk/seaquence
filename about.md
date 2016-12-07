@@ -14,65 +14,15 @@ Share your creations with friends and browse what other people have made to get 
 The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), based on an original project created by Ryan Alexander, Gabriel Dunne, Daniel Massey, and Gray Area Foundation for the Arts. See the original project at seaquence.org.
 
 
-## Videos
-
-<div class="iframe-container">
-  <iframe width="100%" height="350" src='//www.youtube.com/embed/V_iArMbGdnc' frameborder='0' allowfullscreen></iframe>
-</div>
-
-<br />
-
-<div class="iframe-container">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/sO59g51Ich8" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
 ## Screenshots
 
-### iPad
+<img src="{{site.baseurl}}/images/seaquence_ss.png" />
 
-<div class="screenshot-50">
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00009.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00009_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00029.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00029_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00053.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00053_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00066.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00066_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00094.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00094_thumb.png" />
-</a>
+## Video
+
+<div class="iframe-container">
+  <iframe style="width:100%;height:350px" src='//www.youtube.com/embed/V_iArMbGdnc' frameborder='0' allowfullscreen></iframe>
 </div>
-
-<div class="clear"></div>
-
-### iPhone
-
-<div class="screenshot-33">
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00000.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00000_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00002.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00002_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00008.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00008_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00048.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00048_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00049.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00049_thumb.png">
-</a>
-</div>
-
-
-
 
 ## Features
 
@@ -98,7 +48,6 @@ The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), ba
   - Lush delay effect module with feedback and FX-Send
   - MIDI I/O — Seaquence can send notes to external gear, and supports MIDI clock-sync!
 
-
 ## History
 
 In the spring of 2009 Ryan Alexander, Gabriel Dunne, and Daniel Massey participated in fledgling arts organization Gray Area’s first artist residency in the Tenderloin, the heart of San Francisco. While in residence they created the original seaquence.org web app with support from the Gray Area team. Seaquence.org became a seminal project in Gray Area history that blossomed into a vibrant community and has accumulated well over 300,000 compositions. It continues to be enjoyed by people around the world.
@@ -111,36 +60,17 @@ In mid-2014 Ryan and Gabe decided that the best way to keep the Seaquence commun
 
 
 
-## Bio
+## Credits
 
-### Okaynokay
-
-Okaynokay is Ryan Alexander and Gabriel Dunne. Their studio is in Oakland, CA.
-
-### Ryan Alexander
-
-Ryan Alexander is an artist and researcher currently focused on interactive audio/visual experience design. His recent works include generative simulations, live visual performance, spherical photography, and motion graphics experiments.
-
-[http://onecm.com](www)
-
-### Gabriel Dunne
-
-Gabriel Dunne is an audiovisual artist and designer. He integrates a wide range of mediums including software , music, sound, visualization/sonification, digital manufacturing and fabrication. He has performed and shown his work internationally. Based in Emeryville.
-
-[http://gabrieldunne.com](www)
-
-
-
+  - <a href='http://okaynokay.xyz'>Okaynokay</a>
+  - <a href='http://onecm.com'>Ryan Alexander</a>
+  - <a href='http://gabrieldunne.com'>Gabriel Dunne</a>
 
 ## Collaborators
 
-[Daniel Massey](http://daniel-massey.com)
+  - <a href='http://daniel-massey.com'>Daniel Massey</a>
 
-
-<a href="http://grayarea.org">
-<img src="{{site.baseurl}}/images/logos/grayarea.svg" />
-</a>
-
+  - <a href='http://grayarea.org'>Gray Area</a>
   - Josette Melchor
   - Joe Brilliant
   - Tana Sprague
@@ -151,8 +81,6 @@ Gabriel Dunne is an audiovisual artist and designer. He integrates a wide range 
   - Janetti Chon
   - Melissa Wilson
 
-## Made With
-
-<img src="{{site.baseurl}}/images/logos/cinder.svg"  />
-
-<img src="{{site.baseurl}}/images/logos/puredata.png" />
+<a href='http://grayarea.org'><img src="./images/seaquence/logos/grayarea.svg"/ ></a>
+<a href='http://libcinder.org'><img src="./images/seaquence/logos/cinder.svg"/ ></a>
+<a href='http://puredata.info/'><img src="./images/seaquence/logos/puredata.png"/ ></a>
