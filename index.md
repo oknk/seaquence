@@ -13,8 +13,6 @@ Featuring a pro-level synthesizer and timing engine controlled by a fun and dire
 
 Share your creations with friends and browse what other people have made to get inspired!
 
-The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), based on an original project created by Ryan Alexander, Gabriel Dunne, Daniel Massey, and Gray Area Foundation for the Arts. See the original project at [seaquence.org](http://seaquence.org).
-
 
 ## Announce List
 
@@ -118,24 +116,18 @@ In mid-2014 Ryan and Gabe decided that the best way to keep the Seaquence commun
 
 (Screenshots, ~2.5MB)
 
-## Bio
+## About Us
 
-### Okaynokay
+The Seaquence App was created by Ryan Alexander and Gabriel Dunne. They had to create a company in order to release the App. They called the company [Okaynokay](http://okaynokay.xyz). Their studio is in Oakland, California.
 
-Okaynokay is Ryan Alexander and Gabriel Dunne. Their studio is in Oakland, CA.
 
 ### Ryan Alexander
 
-Ryan Alexander is an artist and researcher currently focused on interactive audio/visual experience design. His recent works include generative simulations, live visual performance, spherical photography, and motion graphics experiments. Based in San Francisco.
-
-[http://onecm.com](www)
+[Ryan](http://onecm.com) is an artist and researcher currently focused on interactive audio/visual experience design. His recent works include generative simulations, live visual performance, spherical photography, and motion graphics experiments.
 
 ### Gabriel Dunne
 
-Gabriel Dunne is an audiovisual artist and designer. He integrates a wide range of mediums including software , music, sound, visualization/sonification, digital manufacturing and fabrication. He has performed and shown his work internationally. Based in Emeryville.
-
-[http://gabrieldunne.com](www)
-
+[Gabriel](http://gabrieldunne.com) is an audiovisual artist and designer. He integrates a wide range of mediums including software, music, sound, visualization/sonification, digital manufacturing and fabrication.
 
 
 
