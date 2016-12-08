@@ -13,6 +13,41 @@ Share your creations with friends and browse what other people have made to get 
 
 The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), based on an original project created by Ryan Alexander, Gabriel Dunne, Daniel Massey, and Gray Area Foundation for the Arts. See the original project at [seaquence.org](http://seaquence.org).
 
+## Announce List
+
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<div id="mc_embed_signup">
+  <style type="text/css">
+      #mc_embed_signup {
+        font:14px Helvetica,Arial,sans-serif; width:100%;
+        text-align:left;
+      }
+      #mc_embed_signup form {
+        margin:0;
+        padding:0;
+      }
+      #mc_embed_signup_scroll label,
+      #mc_embed_signup_scroll input,
+      #mc_embed_signup_scroll p,
+      #mc_embed_signup_scroll h2, h3 {
+        text-align:left;
+      }
+  </style>
+  <form action="//seaquence.us14.list-manage.com/subscribe/post?u=3fdd5f25d4bef024b16678665&amp;id=0c17c3906d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+      <h3 for="mce-EMAIL">Get notified when Seaquence is available for iOS!</h3>
+      <p>
+      <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+      <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+      </p>
+      </div>
+  </form>
+</div>
+
+
+### Twitter
+
+<a href="https://twitter.com/seaquence" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @seaquence</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Videos
 
