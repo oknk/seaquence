@@ -1,14 +1,17 @@
+@import url("style-dark.css");
+
 @font-face {
   font-family: 'SeaqFont';
   src: url('SeaqRegular.otf');
 }
 
-@media (max-width: 767px) {}
+@media (max-width: 767px) {
+}
 
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 300;
-  font-size: 0.9em;
+  font-size: 1.2em;
   line-height:1.6em;
   margin: 0;
 }
@@ -18,7 +21,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight:normal;
   line-height:1.2em;
 }
-
 
 h2, h3 {
   margin-top: 1.5em;
@@ -39,6 +41,21 @@ header {
 
 header img {
   width:115%;
+}
+
+#nav {
+  text-align:center;
+  margin: 1em 0 2em 0;
+  padding: 0 2em;
+}
+#nav li {
+  display:inline-block;
+}
+#nav li a {
+  display:block;
+  border-radius:0.5em;
+  padding:1em;
+  text-decoration:none;
 }
 
 .seaqfont {

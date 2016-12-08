@@ -1,11 +1,13 @@
 ---
 layout: page
-permalink: /
-title: Home
-order: 1
+title: Press
+permalink: /press
+order: 2
 ---
 
-# Make living music!
+For immediate release: 00 -- 00 -- 0000
+
+
 
 Seaquence is a unique musical sequencer app that allows you to create soundscapes by layering collections of musical creatures. A spatialized mix emerges as only the closest creatures can be heard, resulting in a organic sonic experience that changes as you play. Visually immersive and sonically dynamic, Seaquence is a completely unique audiovisual composition environment.
 
@@ -14,16 +16,6 @@ Seaquence features a pro-level synthesizer and timing engine controlled by a fun
 Share your creations with friends and browse what other people have made to get inspired!
 
 The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), based on an original project created by Ryan Alexander, Gabriel Dunne, Daniel Massey, and Gray Area Foundation for the Arts. See the original project at [seaquence.org](http://seaquence.org).
-
-
-## Announce List
-
-{%include mailinglist.html %}
-
-### Twitter
-
-{%include twitter.html %}
-
 
 ## Videos
 

@@ -1,0 +1,14 @@
+<ul id="nav">
+<!--   <li><a href="{{site.basurl}}/">Home</a></li>
+  <li><a href="{{site.basurl}}/contact">Contact</a></li>
+  <li><a href="{{site.basurl}}/guide">Guide</a></li>
+ -->
+
+ {% assign sorted_pages = site.pages | sort:"order" %}
+  {% for page in sorted_pages %}
+    {% if page.title %}
+    <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+
+</ul>
