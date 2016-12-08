@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: #ddd;
+  color: #fff;
 }
 a:active {
   outline: none
@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5, h6 {
   color:#666;
 }
 
-#nav li a {
+#nav li a,
+a.button {
   background:#101010;
 }

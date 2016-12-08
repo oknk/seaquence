@@ -5,67 +5,30 @@ permalink: /press
 order: 2
 ---
 
-For immediate release: 00 -- 00 -- 0000
+<a href="seaquence-presskit.zip" class="button">Download Presskit</a>
 
+(Screenshots ~2.5MB)
 
+### For immediate release: December 15, 2016
+
+Seaquence, a unique musical sequencer app is made available this month.
+
+Originally a Flash Website at [seaquence.org](http://seaquence.org), its original creators (Ryan Alexander and Gabriel Dunne) have now released Seaquence as a native touch application, currently available on the iOS App Store.
 
 Seaquence is a unique musical sequencer app that allows you to create soundscapes by layering collections of musical creatures. A spatialized mix emerges as only the closest creatures can be heard, resulting in a organic sonic experience that changes as you play. Visually immersive and sonically dynamic, Seaquence is a completely unique audiovisual composition environment.
 
-Seaquence features a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity!
+Seaquence features a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity.
 
 Share your creations with friends and browse what other people have made to get inspired!
 
 The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), based on an original project created by Ryan Alexander, Gabriel Dunne, Daniel Massey, and Gray Area Foundation for the Arts. See the original project at [seaquence.org](http://seaquence.org).
 
+
 ## Videos
 
-{%include youtube.html id="V_iArMbGdnc" %}
-<br />
-{%include youtube.html id="sO59g51Ich8" %}
+[Watch Teaser on Youtube](https://www.youtube.com/watch?v=V_iArMbGdnc)
 
-## Screenshots
-
-### iPad
-
-<div class="screenshot-50">
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00009.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00009_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00029.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00029_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00053.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00053_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00066.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00066_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00094.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00094_thumb.png" />
-</a>
-</div>
-
-<div class="clear"></div>
-
-### iPhone
-
-<div class="screenshot-33">
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00000.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00000_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00002.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00002_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00008.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00008_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00048.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00048_thumb.png" />
-</a>
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00049.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00049_thumb.png">
-</a>
-</div>
+[Watch Demo on Youtube](https://www.youtube.com/watch?v=sO59g51Ich8)
 
 
 
@@ -107,11 +70,9 @@ In mid-2014 Ryan and Gabe decided that the best way to keep the Seaquence commun
 
 
 
-## Bio
+## About Us
 
-### Okaynokay
-
-Okaynokay is Ryan Alexander and Gabriel Dunne. Their studio is in Oakland, CA.
+The Seaquence App was created by Ryan Alexander and Gabriel Dunne. They had to create a company in order to release the App. They called the company [Okaynokay](http://okaynokay.xyz). Their studio is in Oakland, California.
 
 ### Ryan Alexander
 
@@ -129,6 +90,7 @@ Gabriel Dunne is an audiovisual artist and designer. He integrates a wide range 
 
 
 ## Collaborators
+
 
 [Daniel Massey](http://daniel-massey.com)
 

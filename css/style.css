@@ -5,7 +5,12 @@
   src: url('SeaqRegular.otf');
 }
 
-@media (max-width: 767px) {
+@media (min-width: 600px) {
+  .screenshot-50 img {
+    width:45%;
+    margin:1%;
+    float:left;
+  }
 }
 
 body {
@@ -51,11 +56,16 @@ header img {
 #nav li {
   display:inline-block;
 }
-#nav li a {
+#nav li a,
+a.button {
   display:block;
   border-radius:0.5em;
   padding:1em;
   text-decoration:none;
+}
+
+a.button {
+  display:inline-block;
 }
 
 .seaqfont {
@@ -99,9 +109,5 @@ header img {
   clear:both;
 }
 
-.screenshot-50 img {
-  width:45%;
-  margin:1%;
-  float:left;
-}
+
 

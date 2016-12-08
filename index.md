@@ -7,9 +7,9 @@ order: 1
 
 # Make living music!
 
-Seaquence is a unique musical sequencer app that allows you to create soundscapes by layering collections of musical creatures. A spatialized mix emerges as only the closest creatures can be heard, resulting in a organic sonic experience that changes as you play. Visually immersive and sonically dynamic, Seaquence is a completely unique audiovisual composition environment.
+Seaquence is a sequencer app that allows you to create music with collections of sonic creatures. Only the closest creatures can be heard, resulting in a organic sounding mix that changes as you play. Visually immersive and sonically dynamic, Seaquence is a unique audiovisual composition environment.
 
-Seaquence features a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity!
+Featuring a pro-level synthesizer and timing engine controlled by a fun and direct interface, even composers who are brand new to synthesis will be able to unlock their synesthetic creativity.
 
 Share your creations with friends and browse what other people have made to get inspired!
 
@@ -76,8 +76,6 @@ The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), ba
 </div>
 
 
-
-
 ## Features
 
   - Fully featured polyphonic synthesis module with support of up to 5 note polyphony per voice
@@ -114,6 +112,11 @@ Since then a lot has changed. Seaquence.org was originally written in Adobe Flas
 In mid-2014 Ryan and Gabe decided that the best way to keep the Seaquence community alive was to do what they had been talking about for years — bring the app to iPad. Over the next two and a half years, they built a new version of Seaquence from the ground up with a brand-new codebase, introducing shiny new graphics and a high quality sound engine, graduating Seaquence from a Flash web-toy to a fully-featured musical experience.
 
 
+## Presskit
+
+<a href="{{site.baseurl}}/press" class="button">PressKit</a>
+
+(Screenshots, ~2.5MB)
 
 ## Bio
 
