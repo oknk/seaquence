@@ -76,12 +76,15 @@ The Seaquence App was created by Ryan Alexander and Gabriel Dunne. They had to c
 
 ### Ryan Alexander
 
-[Ryan](http://onecm.com) is an artist and researcher currently focused on interactive audio/visual experience design. His recent works include generative simulations, live visual performance, spherical photography, and motion graphics experiments.
+Ryan artist and researcher currently focused on interactive audio/visual experience design. His recent works include generative simulations, live visual performance, spherical photography, and motion graphics experiments.
+
+[onecm.com](http://onecm.com)
 
 ### Gabriel Dunne
 
-[Gabriel](http://gabrieldunne.com) is an audiovisual artist and designer. He integrates a wide range of mediums including software, music, sound, visualization/sonification, digital manufacturing and fabrication. He has shown and performed his work around the world.
+Gabe is an audiovisual artist and designer interested in creating experiences and live a/v performance. He integrates a wide range of mediums including audio and visual software, installation, visualization/sonification, digital manufacturing and fabrication.
 
+[quilime.com](http://quilime.com)
 
 
 ## Collaborators
