@@ -21,6 +21,8 @@ Seaquence is a unique musical sequencer app that allows you to create soundscape
 
 Seaquence features a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity.
 
+Available as a free download, Seaquence includes a 16x16 polyphonic sequencer matrix, a scale editor w/octave, parametric envelope editor, oscillator type, and more. With a single in-app purchase, pro-level features are unlocked which include MIDI + Clock Sync, Delay FX, State-Variable Filter, and more.
+
 <img src="{{site.baseurl}}/images/Seaquence-screenshot_iPad12.9_2x_browser_thumb.png" />
 
 Share your creations with friends and browse what other people have made to get inspired!
