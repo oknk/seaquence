@@ -21,7 +21,7 @@ Seaquence is a unique musical sequencer app that allows you to create soundscape
 
 Seaquence features a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity.
 
-Available as a free download, Seaquence includes a 16x16 polyphonic sequencer matrix, a scale editor w/octave, parametric envelope editor, oscillator type, and more. With a single in-app purchase, pro-level features are unlocked which include MIDI + Clock Sync, Delay FX, State-Variable Filter, and more.
+Seaquence includes multi-touch editing tools such as a 16x16 polyphonic sequencer, a scale editor w/octave, envelope editor, and multiple oscillator types. With a single in-app purchase, pro-level features are unlocked which include Delay FX, State-Variable Filter, MIDI + Clock Sync, and more.
 
 <img src="{{site.baseurl}}/images/Seaquence-screenshot_iPad12.9_2x_browser_thumb.png" />
 
@@ -38,6 +38,8 @@ The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), ba
 
 
 ## Features
+
+Included with the free download:
 
   - Fully featured polyphonic synthesis module with support of up to 5 note polyphony per voice
   - Dynamic spatial mixer and stereo-panning engine
@@ -65,7 +67,7 @@ A single in-app purchase unlocks all the following extra features:
 
 # History
 
-In the spring of 2009 Ryan Alexander, Gabriel Dunne, and Daniel Massey participated in fledgling arts organization Gray Area’s first artist residency in the Tenderloin, the heart of San Francisco. While in residence they created the original [seaquence.org](http://seaquence.org) web app with support from the Gray Area team. [seaquence.org](http://seaquence.org) became a seminal project in the organizations history that blossomed into a vibrant community and has accumulated well over 300,000 compositions. It continues to be enjoyed by people around the world.
+In the spring of 2009 Ryan Alexander, Gabriel Dunne, and Daniel Massey participated in fledgling arts organization Gray Area’s first artist residency in the Tenderloin, the heart of San Francisco. While in residence they created the original [seaquence.org](http://seaquence.org) web app with support from the Gray Area team. Seaquence became a seminal project in the organizations history that blossomed into a vibrant community and has accumulated well over 300,000 compositions. It continues to be enjoyed by people around the world.
 
 Seaquence spanned into physical installation as well. A hardware 'SeaNome' RGB button grid was created as a hardware controller and used in physical installations.
 
