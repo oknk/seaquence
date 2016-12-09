@@ -15,15 +15,17 @@ order: 2
 
 Seaquence, a unique musical sequencer app is made available on the iOS App Store this month.
 
+<img src="{{site.baseurl}}/images/seaquence-ss-3up.png" />
+
 Seaquence is a unique musical sequencer app that allows you to create soundscapes by layering collections of musical creatures. A spatialized mix emerges as only the closest creatures can be heard, resulting in a organic sonic experience that changes as you play. Visually immersive and sonically dynamic, Seaquence is a completely unique audiovisual composition environment.
 
 Seaquence features a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity.
 
+<img src="{{site.baseurl}}/images/seaquence-ss-1up.png" />
+
 Share your creations with friends and browse what other people have made to get inspired!
 
 The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), based on the original website [seaquence.org](http://seaquence.org) created by Ryan Alexander, Gabriel Dunne and Daniel Massey, with support from Gray Area Foundation for the Arts.
-
-
 
 # Videos
 
@@ -61,11 +63,11 @@ A single in-app purchase unlocks all the following extra features:
 
 # History
 
-In the spring of 2009 Ryan Alexander, Gabriel Dunne, and Daniel Massey participated in fledgling arts organization Gray Area’s first artist residency in the Tenderloin, the heart of San Francisco. While in residence they created the original seaquence.org web app with support from the Gray Area team. Seaquence.org became a seminal project in the organizations history that blossomed into a vibrant community and has accumulated well over 300,000 compositions. It continues to be enjoyed by people around the world.
+In the spring of 2009 Ryan Alexander, Gabriel Dunne, and Daniel Massey participated in fledgling arts organization Gray Area’s first artist residency in the Tenderloin, the heart of San Francisco. While in residence they created the original [seaquence.org](http://seaquence.org) web app with support from the Gray Area team. [seaquence.org](http://seaquence.org) became a seminal project in the organizations history that blossomed into a vibrant community and has accumulated well over 300,000 compositions. It continues to be enjoyed by people around the world.
 
 Seaquence spanned into physical installation as well. A hardware 'SeaNome' RGB button grid was created as a hardware controller and used in physical installations.
 
-Since then a lot has changed. Seaquence.org was originally written in Adobe Flash before the original iPad was released. Flash has slowly been phased out as an interactive platform on the web, and doesn't work at all on mobile devices.
+Since then a lot has changed. [seaquence.org](http://seaquence.org) was originally written in Adobe Flash before the original iPad was released. Flash has slowly been phased out as an interactive platform on the web, and doesn't work at all on mobile devices.
 
 In mid-2014 Ryan and Gabe decided that the best way to keep the Seaquence community alive was to do what they had been talking about for years — bring the app to iPad. Over the next two and a half years, they built a new version of Seaquence from the ground up with a brand-new codebase, introducing shiny new graphics and a high quality sound engine, graduating Seaquence from a Flash web-toy to a fully-featured musical experience.
 
