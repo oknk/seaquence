@@ -25,6 +25,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'SeaqFont', Helvetica, Arial, sans-serif;
   font-weight:normal;
   line-height:1.2em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h2, h3 {
@@ -37,7 +39,7 @@ a {
 
 
 img {
-  max-width:600px;
+  max-width: 100%;
 }
 
 header {
