@@ -111,5 +111,18 @@ a.button {
   clear:both;
 }
 
+.contents {
+  padding:0;
+  margin:0;
+}
 
+.contents ul {
+  padding-left:1em;
+  margin:0;
+}
+.contents li {
+  padding:0;
+  margin:0 0 0.25em 0;
+  list-style-type:none;
+}
 

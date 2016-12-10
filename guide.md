@@ -63,29 +63,66 @@ When you like what you've created, tap on the Session Browser icon on the bottom
 
 # Manual
 
-Coming soon.
+Coming soon!
 
+
+## Table of Contents
+
+<ul class="contents">
+
+<li>1.  &nbsp;&nbsp;&nbsp; Overview</li>
 <br />
+
+<li>2.  &nbsp;&nbsp;&nbsp; Layout</li>
+<li>2.1 &nbsp; The Sea</li>
+<li>2.2 &nbsp; Add Voice</li>
+<li>2.3 &nbsp; Remove Voice</li>
 <br />
+
+<li>3.  &nbsp;&nbsp;&nbsp; Session Browser</li>
+<li>3.1 &nbsp; Create new Session</li>
+<li>3.2 &nbsp; Save Preset</li>
+<li>3.3 &nbsp; Share Preset</li>
 <br />
+
+<li>4.  &nbsp;&nbsp;&nbsp; Voice Editor</li>
+<li>4.1 &nbsp; Clone Voice</li>
 <br />
+
+<li>5.  &nbsp;&nbsp;&nbsp; Scale Editor</li>
+<li>5.1 &nbsp; Scale</li>
+<li>5.2 &nbsp; Octave</li>
 <br />
+
+<li>6.  &nbsp;&nbsp;&nbsp; Sequence Editor</li>
+<li>6.1 &nbsp; Sequencer</li>
+<li>6.2 &nbsp; Note Step</li>
+<li>6.3 &nbsp; Swing/Shuffle</li>
+<li>6.4 &nbsp; Glide/Portamento</li>
+<li>6.5 &nbsp; Voice Modes</li>
 <br />
+
+<li>7.  &nbsp;&nbsp;&nbsp; Envelope Editor</li>
+<li>7.1 &nbsp; Waveform Type</li>
+<li>7.2 &nbsp; Amplitude Envelope</li>
+<li>7.3 &nbsp; Note Length</li>
+<li>7.4 &nbsp; Filter Envelope</li>
+<li>7.5 &nbsp; Filter Cut/Res</li>
+<li>7.6 &nbsp; Filter Type</li>
 <br />
+
+<li>5.  &nbsp;&nbsp;&nbsp; Master Editor</li>
+<li>5.1 &nbsp; Transpose</li>
+<li>5.2 &nbsp; Volume</li>
+<li>5.3 &nbsp; Tempo</li>
+<li>5.4 &nbsp; Delay FX</li>
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+<li>6.  &nbsp;&nbsp;&nbsp; MIDI</li>
+<li>6.1 &nbsp; MIDI Notes Out</li>
+<li>6.2 &nbsp; MIDI Clock In/Out</li>
+
+
 <br />
 <br />
 <br />
