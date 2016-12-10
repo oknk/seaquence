@@ -111,16 +111,16 @@ Coming soon!
 <li>7.6 &nbsp; Filter Type</li>
 <br />
 
-<li>5.  &nbsp;&nbsp;&nbsp; Master Editor</li>
-<li>5.1 &nbsp; Transpose</li>
-<li>5.2 &nbsp; Volume</li>
-<li>5.3 &nbsp; Tempo</li>
-<li>5.4 &nbsp; Delay FX</li>
+<li>8.  &nbsp;&nbsp;&nbsp; Master Editor</li>
+<li>8.1 &nbsp; Transpose</li>
+<li>8.2 &nbsp; Volume</li>
+<li>8.3 &nbsp; Tempo</li>
+<li>8.4 &nbsp; Delay FX</li>
 <br />
 
-<li>6.  &nbsp;&nbsp;&nbsp; MIDI</li>
-<li>6.1 &nbsp; MIDI Notes Out</li>
-<li>6.2 &nbsp; MIDI Clock In/Out</li>
+<li>9.  &nbsp;&nbsp;&nbsp; MIDI</li>
+<li>9.1 &nbsp; MIDI Notes Out</li>
+<li>9.2 &nbsp; MIDI Clock In/Out</li>
 
 
 <br />
