@@ -49,6 +49,10 @@ These are global controls for the entire composition. Here you can edit the temp
 
 By tapping the green Add Creature button on the top left, a new creature will be created. If you tap this with the voice editor open, a clone of the current creature will be created.
 
+### Delete a Creature
+
+In the Sea, long-press on any creature and you'll be able to tap a creatures' delete icon to remove it. Tap in the Sea when you're done.
+
 ### Save your Creation
 
 When you like what you've created, tap on the Session Browser icon on the bottom left, and save a new snapshot of your creation. You'll be able to share the link with others!
