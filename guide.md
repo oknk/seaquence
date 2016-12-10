@@ -55,7 +55,7 @@ In the Sea, long-press on any creature and you'll be able to tap a creatures' de
 
 ### Save your Creation
 
-When you like what you've created, tap on the Session Browser icon on the bottom left, and save a new snapshot of your creation. You'll be able to share the link with others!
+When you like what you've created, tap on the Session Browser icon on the bottom left, and save a new snapshot of your creation. Share the link with your friends!
 
 
 <a name="full"></a>
