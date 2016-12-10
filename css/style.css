@@ -43,11 +43,11 @@ img {
 }
 
 header {
- padding: 0 2em;
+  margin: 50px 2em 20px 2em;
 }
 
 header img {
-  width:115%;
+  width: 100%;
 }
 
 #nav {
