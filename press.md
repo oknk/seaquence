@@ -7,10 +7,7 @@ order: 2
 
 # Press
 
-<a href="seaquence-presskit.zip" class="button">Download Presskit</a>
-
-(Screenshots ~2.5MB)
-
+{%include presskit_dl.html %}
 
 ## For immediate release: December 19, 2016
 

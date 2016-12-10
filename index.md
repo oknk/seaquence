@@ -88,9 +88,7 @@ Share your creations with friends and browse what other people have made to get 
 
 # Presskit
 
-<a href="{{site.baseurl}}/press" class="button">PressKit</a>
-
-(Screenshots, ~2.5MB)
+<a href="{{site.baseurl}}/press" class="button">View PressKit</a>
 
 
 # About Us
