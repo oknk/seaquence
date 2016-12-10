@@ -8,7 +8,7 @@ Ryan artist and researcher currently focused on interactive audio/visual experie
 
 ## Gabriel Dunne
 
-Gabe is an artist and designer creating audio/visual experiences and live a/v performance. He integrates a wide range of mediums including audio and visual software, installation, visualization/sonification, digital manufacturing and fabrication.
+Gabe is an artist and designer who creates audio/visual experiences and live a/v performance. He integrates a wide range of mediums including audio and visual software, installation, visualization/sonification, sculpture, and digital fabrication.
 
 [gabrieldunne.com](http://gabrieldunne.com)
 
@@ -17,7 +17,7 @@ Gabe is an artist and designer creating audio/visual experiences and live a/v pe
 
 ## Daniel Massey
 
-Daniel is an artist and designer currently based in Berlin. He was a co-creator of the original Seaquence project and headed up the physical hardware design (Seanome).
+Daniel is an artist, musician, and designer currently based in Berlin. He was a co-creator of the original Seaquence project.
 
 [daniel-massey.com](http://daniel-massey.com)
 
