@@ -7,6 +7,6 @@ author: Ryan
 
 Working on Thumbs
 
-[![]({{site.contentloc}}/browser1.png)]({{site.contentloc}}/browser1.png)
+[![]({{site.offsiteimgs}}/browser1.png)]({{site.offsiteimgs}}/browser1.png)
 
-[![]({{site.contentloc}}/browser2.png)]({{site.contentloc}}/browser2.png)
+[![]({{site.offsiteimgs}}/browser2.png)]({{site.offsiteimgs}}/browser2.png)

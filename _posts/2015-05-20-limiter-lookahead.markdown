@@ -12,4 +12,4 @@ Default lookahead is 1.45 ms, or about 64 samples.
 
     1000 / 44000 * 64 = 1.4545454545... ms
 
-![]({{site.contentloc}}/limiter-Screen Shot 2015-05-20 at 8.49.06 PM.png)
+![]({{site.offsiteimgs}}/limiter-Screen Shot 2015-05-20 at 8.49.06 PM.png)

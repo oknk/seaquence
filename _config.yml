@@ -1,8 +1,15 @@
 title: Seaquence
 description: Seaquence App
 copyright: Okaynokay
-contentloc: http://media.quilime.com/seaqblerg/media
+
+permalink: /blog/:year-:month-:day-:title
+
+gems: [jekyll-paginate]
+paginate_path: "/blog/page:num/"
+paginate: 5
+
+offsiteimgs: http://media.quilime.com/seaqblerg/media
 blogimgs: images/blog
-permalink: posts/:year-:month-:day-:title
+
 app:
   price: "<strike>$9.99</strike> $6.99 USD"

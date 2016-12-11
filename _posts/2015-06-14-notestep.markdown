@@ -5,12 +5,12 @@ date:   2015-06-14
 author: Ryan
 ---
 
-[![]({{site.contentloc}}/notestep0.png)]({{site.contentloc}}/notestep0.png)
+[![]({{site.offsiteimgs}}/notestep0.png)]({{site.offsiteimgs}}/notestep0.png)
 
-[![]({{site.contentloc}}/notestep1.png)]({{site.contentloc}}/notestep1.png)
+[![]({{site.offsiteimgs}}/notestep1.png)]({{site.offsiteimgs}}/notestep1.png)
 
-[![]({{site.contentloc}}/notestep2.png)]({{site.contentloc}}/notestep2.png)
+[![]({{site.offsiteimgs}}/notestep2.png)]({{site.offsiteimgs}}/notestep2.png)
 
-[![]({{site.contentloc}}/notestep3.png)]({{site.contentloc}}/notestep3.png)
+[![]({{site.offsiteimgs}}/notestep3.png)]({{site.offsiteimgs}}/notestep3.png)
 
-[![]({{site.contentloc}}/notestep4.png)]({{site.contentloc}}/notestep4.png)
+[![]({{site.offsiteimgs}}/notestep4.png)]({{site.offsiteimgs}}/notestep4.png)

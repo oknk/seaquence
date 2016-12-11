@@ -7,11 +7,11 @@ author: Ryan
 
 The beginnings of Seaquence iOS. Cinder + Pure Data
 
-[![]({{site.contentloc}}/seaq1.PNG)]({{site.contentloc}}/seaq1.PNG)
+[![]({{site.offsiteimgs}}/seaq1.PNG)]({{site.offsiteimgs}}/seaq1.PNG)
 
-[![]({{site.contentloc}}/seaq5.PNG)]({{site.contentloc}}/seaq5.PNG)
+[![]({{site.offsiteimgs}}/seaq5.PNG)]({{site.offsiteimgs}}/seaq5.PNG)
 
-[![]({{site.contentloc}}/seaq6.PNG)]({{site.contentloc}}/seaq6.PNG)
+[![]({{site.offsiteimgs}}/seaq6.PNG)]({{site.offsiteimgs}}/seaq6.PNG)
 
-[![]({{site.contentloc}}/seaq7.PNG)]({{site.contentloc}}/seaq7.PNG)
+[![]({{site.offsiteimgs}}/seaq7.PNG)]({{site.offsiteimgs}}/seaq7.PNG)
 

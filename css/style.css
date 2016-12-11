@@ -67,6 +67,14 @@ header.post-header {
   margin-bottom:1em;
 }
 
+.posts article.post {
+  margin-bottom:3em;
+}
+
+.pagination {
+  text-align:center;
+  margin-bottom:1em;
+}
 
 #nav {
   text-align:center;

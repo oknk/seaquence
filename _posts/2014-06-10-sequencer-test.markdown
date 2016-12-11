@@ -19,20 +19,20 @@ Cleaned up some of the PD patches:
 
 Main
 
-![]({{site.contentloc}}/Screen Shot 2014-06-13 at 10.24.37 PM.png)
+![]({{site.offsiteimgs}}/Screen Shot 2014-06-13 at 10.24.37 PM.png)
 
 Sequencer
 
-![]({{site.contentloc}}/Screen Shot 2014-06-13 at 10.24.41 PM.png)
+![]({{site.offsiteimgs}}/Screen Shot 2014-06-13 at 10.24.41 PM.png)
 
 Delay Controls
 
-![]({{site.contentloc}}/Screen Shot 2014-06-13 at 10.24.42 PM.png)
+![]({{site.offsiteimgs}}/Screen Shot 2014-06-13 at 10.24.42 PM.png)
 
 Tape Delay
 
-![]({{site.contentloc}}/Screen Shot 2014-06-13 at 10.24.48 PM.png)
+![]({{site.offsiteimgs}}/Screen Shot 2014-06-13 at 10.24.48 PM.png)
 
 Audio limiter
 
-![]({{site.contentloc}}/Screen Shot 2014-06-13 at 10.24.50 PM.png)
+![]({{site.offsiteimgs}}/Screen Shot 2014-06-13 at 10.24.50 PM.png)

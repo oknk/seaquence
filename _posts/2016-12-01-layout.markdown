@@ -5,4 +5,4 @@ date:   2016-12-01
 author: ryan
 ---
 
-[![]({{site.contentloc}}/layout.png)]({{site.contentloc}}/layout.png)
+[![]({{site.offsiteimgs}}/layout.png)]({{site.offsiteimgs}}/layout.png)

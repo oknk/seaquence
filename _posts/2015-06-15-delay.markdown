@@ -7,6 +7,6 @@ author: Gabe
 
 Delay UI Process
 
-[![]({{site.contentloc}}/delay1.png)]({{site.contentloc}}/delay1.png)
+[![]({{site.offsiteimgs}}/delay1.png)]({{site.offsiteimgs}}/delay1.png)
 
-[![]({{site.contentloc}}/delay2.png)]({{site.contentloc}}/delay2.png)
+[![]({{site.offsiteimgs}}/delay2.png)]({{site.offsiteimgs}}/delay2.png)

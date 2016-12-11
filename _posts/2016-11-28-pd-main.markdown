@@ -5,6 +5,6 @@ date:   2016-11-28
 author: Gabe
 ---
 
-[![]({{site.contentloc}}/pd-main.png)]({{site.contentloc}}/pd-main.png)
+[![]({{site.offsiteimgs}}/pd-main.png)]({{site.offsiteimgs}}/pd-main.png)
 
 Current synth in all its glory. This is close to what ships for release.
