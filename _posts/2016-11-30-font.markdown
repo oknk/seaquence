@@ -5,6 +5,6 @@ date:   2016-11-30
 author: ryan
 ---
 
-![]({{site.blogimgs}}/seaqfont_oknk_seaq_tester.png)
+![]({{site.baseurl}}/{{site.blogimgs}}/seaqfont_oknk_seaq_tester.png)
 
-![]({{site.blogimgs}}/seaqfont_oknk_seaq_ss_0.png)
+![]({{site.baseurl}}/{{site.blogimgs}}/seaqfont_oknk_seaq_ss_0.png)

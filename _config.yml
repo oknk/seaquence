@@ -8,7 +8,7 @@ collections:
 
 contentloc: http://media.quilime.com/seaqblerg/media
 
-blogimgs: ../images/blog
+blogimgs: images/blog
 
 app:
   price: "<strike>$9.99</strike> $6.99 USD"
