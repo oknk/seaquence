@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Font Design"
+date:   2016-10-27
+author: ryan
+---
+
+![]({{site.contentloc}}/font3.png)
+
+![]({{site.contentloc}}/font1.png)
+
+![]({{site.contentloc}}/font2.png)
+
+![]({{site.contentloc}}/font4.png)
