@@ -88,6 +88,23 @@ a.button {
   display:inline-block;
 }
 
+.PageNavigation {
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  float: left;
+  font-size:0.85em;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+  float:right;
+}
+
+
 .seaqfont {
   font-family: 'SeaqFont', Helvetica, Arial, sans-serif;
 }
@@ -143,4 +160,6 @@ a.button {
   margin:0 0 0.25em 0;
   list-style-type:none;
 }
+
+
 
