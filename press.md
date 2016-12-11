@@ -9,6 +9,8 @@ order: 2
 
 {%include presskit_dl.html %}
 
+## For release: December 19, 2016
+
 Seaquence, a unique musical sequencer app will be released on the iOS App Store this month. It will run on all modern iOS 8 (or newer) devices and screen sizes. The official release date is Monday, December 19th 2016.
 
 <img src="{{site.baseurl}}/images/Seaquence-iPad12.9_2x_3up_thumb.png" />
