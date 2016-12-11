@@ -9,9 +9,9 @@ order: 2
 
 {%include presskit_dl.html %}
 
-## For immediate release: December 19, 2016
+## For immediate release: December 12, 2016
 
-Seaquence, a unique musical sequencer app is available on the iOS App Store this month.
+Seaquence, a unique musical sequencer app will be release on the iOS App Store this month.
 
 <img src="{{site.baseurl}}/images/Seaquence-iPad12.9_2x_3up_thumb.png" />
 
@@ -26,6 +26,8 @@ Seaquence includes multi-touch editing tools such as a 16x16 polyphonic sequence
 Share your creations with friends and browse what other people have made to get inspired!
 
 The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), based on the original website [seaquence.org](http://seaquence.org) created by Ryan Alexander, Gabriel Dunne and Daniel Massey, with support from Gray Area Foundation for the Arts.
+
+The official release date for the Seaquence App is December 19th on the iOS App Store. It will run on all modern iOS 8 (or newer) devices and screen sizes.
 
 
 # Videos
