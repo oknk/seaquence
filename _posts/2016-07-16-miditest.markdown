@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "MIDI Testing"
+date:   2016-07-16
+author: gabe
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wm1h49rQNC8" frameborder="0" allowfullscreen></iframe>
+
+Demoing MIDI with Seaquence and the Korg Minilogue.
