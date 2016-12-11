@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Limiter and Stuff"
-date:   2014-06-13
+date:   2014-06-10
 categories: dev
 author: gabe
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sequencer + Synth"
-date:   2014-06-10 21:27:58
+date:   2014-06-13 21:27:58
 categories: dev
 author: gabe
 ---
