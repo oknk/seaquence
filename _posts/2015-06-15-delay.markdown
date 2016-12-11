@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Delay UI Process"
+date:   2015-06-15
+author: Gabe
+---
+
+Delay UI Process
+
+[![]({{site.contentloc}}/delay1.png)]({{site.contentloc}}/delay1.png)
+
+[![]({{site.contentloc}}/delay2.png)]({{site.contentloc}}/delay2.png)
