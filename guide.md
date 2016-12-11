@@ -2,7 +2,7 @@
 layout: page
 title: Guide
 permalink: /guide
-order: 4
+order: -1
 ---
 
 # Guide

@@ -13,7 +13,7 @@ Included with the free download:
 
 ## Extra Features
 
-A single in-app purchase unlocks all the following extra features:
+A single in-app purchase ({{ site.app.price }}) unlocks the entire app and includes:
 
   - State-variable filter with hi-pass, band-pass, lo-pass, and notch modes, resonance Q, and attack envelope
   - Swing/Shuffle

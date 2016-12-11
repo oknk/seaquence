@@ -5,3 +5,6 @@ collections:
   projects:
     output: true
     permalink: /:title
+
+app:
+  price: "<strike>$9.99</strike> $6.99 USD"
