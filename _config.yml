@@ -6,5 +6,7 @@ collections:
     output: true
     permalink: /:title
 
+contentloc: http://media.quilime.com/seaqblerg/media
+
 app:
   price: "<strike>$9.99</strike> $6.99 USD"

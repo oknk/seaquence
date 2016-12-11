@@ -25,3 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 a.button {
   background:#101010;
 }
+
+.post-meta {
+  color:#777;
+}
