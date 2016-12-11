@@ -2,4 +2,4 @@
 
 set -x
 
-rsync -var media/ quilime@quilime.com:media.quilime.com/seaqblerg/media/
+rsync -var _media/ quilime@quilime.com:media.quilime.com/seaqblerg/media/
