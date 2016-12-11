@@ -2,7 +2,6 @@
 layout: post
 title:  "PD Patching"
 date:   2014-06-30 21:27:58
-categories: dev
 author: gabe
 ---
 

@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Patches"
+title:  "PD Patches Overview"
 date:   2015-05-16
-categories: dev
 author: gabe
 ---
 

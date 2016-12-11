@@ -71,10 +71,6 @@ header.post-header {
   margin-bottom:3em;
 }
 
-.pagination {
-  text-align:center;
-  margin-bottom:1em;
-}
 
 #nav {
   text-align:center;
@@ -84,17 +80,18 @@ header.post-header {
 #nav li {
   display:inline-block;
 }
-#nav li a,
-a.button {
-  display:block;
+
+.button,
+.button-disabled {
+  font-family: "SeaqFont";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display:inline-block;
   border-radius:0.5em;
   padding:1em;
   text-decoration:none;
 }
 
-a.button {
-  display:inline-block;
-}
 
 .PageNavigation {
   width: auto;
@@ -110,6 +107,18 @@ a.button {
 .PageNavigation .next {
   text-align: right;
   float:right;
+}
+
+.pagination {
+  text-align:center;
+  margin-bottom:1em;
+}
+
+.pagination .pagenums {
+  font-family: "SeaqFont";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0 1em;
 }
 
 

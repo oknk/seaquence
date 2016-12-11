@@ -2,8 +2,7 @@
 layout: post
 title:  "Limiter and Stuff"
 date:   2014-06-10
-categories: dev
-author: gabe
+author: Gabe
 ---
 
 Worked out of CDG today.

@@ -21,11 +21,21 @@ h1, h2, h3, h4, h5, h6 {
   color:#666;
 }
 
-#nav li a,
-a.button,
+.button,
+.button-disabled,
 .PageNavigation a {
   background:#101010;
 }
+
+.button:hover {
+  background:#202027;
+}
+
+.button-disabled {
+  background:#131313;
+  color:#303030;
+}
+
 
 .post-meta {
   color:#777;

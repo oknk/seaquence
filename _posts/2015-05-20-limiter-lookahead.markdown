@@ -2,7 +2,6 @@
 layout: post
 title:  "Limiter Lookahead"
 date:   2015-05-20 12:06:50
-categories: dev
 author: gabe
 ---
 

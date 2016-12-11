@@ -2,7 +2,6 @@
 layout: post
 title:  "Filter UI design"
 date:   2015-05-07 13:54:50
-categories: dev
 author: gabe
 ---
 

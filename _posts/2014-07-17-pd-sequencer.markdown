@@ -2,7 +2,6 @@
 layout: post
 title:  "PD Sequencer"
 date:   2014-07-17
-categories: dev
 author: gabe
 ---
 

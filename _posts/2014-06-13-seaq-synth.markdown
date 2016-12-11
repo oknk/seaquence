@@ -3,7 +3,7 @@ layout: post
 title:  "Sequencer + Synth"
 date:   2014-06-13 21:27:58
 categories: dev
-author: gabe
+author: Gabe
 ---
 
 Proof of concept compiling libcinder and PD in harmony. Step sequencer with tempo and glide controls, and a delayline with delay time, feedback, and mix.

@@ -2,7 +2,6 @@
 layout: post
 title:  "Midnight Demo"
 date:   2015-05-19 00:06:50
-categories: dev
 author: gabe
 ---
 
