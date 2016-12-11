@@ -14,6 +14,10 @@ Proof of concept compiling libcinder and PD in harmony. Step sequencer with temp
 
 <iframe width="853" height="480" src="//www.youtube.com/embed/wVDLdnzhaV8" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="853" height="480" src="//www.youtube.com/embed/DKGu1r6Xlpw" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="853" height="480" src="//www.youtube.com/embed/u3XLFP0yh9s" frameborder="0" allowfullscreen></iframe>
+
 ![]({{site.contentloc}}/sequencer-2014.06.10.png)
 
 Controls from the top down: Tempo, Glide, Delay Time, Feedback, Delay Mix
