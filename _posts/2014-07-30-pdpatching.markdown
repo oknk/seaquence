@@ -7,12 +7,11 @@ author: gabe
 
 Repatching and cleaning up patches:
 
-
-#### Main
+## Main
 ![]({{site.offsiteimgs}}/Screen Shot 2014-07-01 at 2.30.53 AM.png)
 
-#### Sequencer
+## Sequencer
 ![]({{site.offsiteimgs}}/Screen Shot 2014-07-01 at 2.30.56 AM.png)
 
-#### Local Controls
+## Local Controls
 ![]({{site.offsiteimgs}}/Screen Shot 2014-07-01 at 2.30.58 AM.png)

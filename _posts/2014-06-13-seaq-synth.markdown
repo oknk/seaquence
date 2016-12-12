@@ -22,8 +22,8 @@ Proof of concept compiling libcinder and PD in harmony. Step sequencer with temp
 
 Controls from the top down: Tempo, Glide, Delay Time, Feedback, Delay Mix
 
-#### PD Sequencer Patch
+## PD Sequencer Patch
 ![]({{site.offsiteimgs}}/seq-2014-06-10.png)
 
-#### PD Pitch Delay Patch
+## PD Pitch Delay Patch
 ![]({{site.offsiteimgs}}/fx-pitch-delay-2014-06-10.png)
