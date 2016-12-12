@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Delay UI Process"
+title:  "Delay UI Design Process"
 date:   2015-06-15
 author: Gabe
 ---
@@ -10,3 +10,5 @@ Delay UI Process
 [![]({{site.offsiteimgs}}/delay1.png)]({{site.offsiteimgs}}/delay1.png)
 
 [![]({{site.offsiteimgs}}/delay2.png)]({{site.offsiteimgs}}/delay2.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ix-TqUXm4Cs" frameborder="0" allowfullscreen></iframe>

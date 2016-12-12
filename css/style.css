@@ -37,6 +37,9 @@ a {
   /*text-decoration: none;*/
 }
 
+iframe {
+  width:100%;
+}
 
 img {
   max-width: 100%;
@@ -96,17 +99,20 @@ header.post-header {
 .PageNavigation {
   width: auto;
   overflow: hidden;
+  text-align:center;
 }
 
 .PageNavigation a {
-  float: left;
-  font-size:0.85em;
   margin: 1em 0;
+}
+
+.PageNavigation .prev {
+  float:left;
 }
 
 .PageNavigation .next {
   text-align: right;
-  float:right;
+  float: right;
 }
 
 .pagination {
@@ -142,7 +148,7 @@ header.post-header {
   width:100%;
   text-align:center;
   margin:2em auto;
-  font-size:0.9em;
+  font-size:0.75em;
   text-transform:uppercase;
 }
 
