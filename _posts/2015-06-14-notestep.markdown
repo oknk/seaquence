@@ -5,6 +5,10 @@ date:   2015-06-14
 author: Ryan
 ---
 
+These are some of the early attempts to represent time signatures.
+
+The time signature control went through many iterations before we arrived on something usable.
+
 [![]({{site.offsiteimgs}}/notestep0.png)]({{site.offsiteimgs}}/notestep0.png)
 
 [![]({{site.offsiteimgs}}/notestep1.png)]({{site.offsiteimgs}}/notestep1.png)
@@ -14,3 +18,7 @@ author: Ryan
 [![]({{site.offsiteimgs}}/notestep3.png)]({{site.offsiteimgs}}/notestep3.png)
 
 [![]({{site.offsiteimgs}}/notestep4.png)]({{site.offsiteimgs}}/notestep4.png)
+
+[![]({{site.offsiteimgs}}/notestep5.png)]({{site.offsiteimgs}}/notestep5.png)
+
+[![]({{site.offsiteimgs}}/notestep6.png)]({{site.offsiteimgs}}/notestep6.png)

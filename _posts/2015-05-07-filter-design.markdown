@@ -5,6 +5,19 @@ date:   2015-05-07 13:54:50
 author: gabe
 ---
 
+Each UI element went through a transformation from Knobs to something more intuitive.
+
+Each one went through several iterations.
+
+Here is a SVF mixer that didn’t make it into the app.
+
+Sometimes we’ll try a direction and abandon it, but certain ones like this stay in the back of your head. We’ve talked about bringing this one back in some way.
+
+Was super important to play with the app to get a feel for how well a control worked.
+Hard to tell if an idea is good sometimes without testing it.
+
+Flexible codebase really helped.
+
 Design mockups for a SVF (State Variable Filter) with the following functionality:
 
 - Filter Mode
