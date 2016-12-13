@@ -50,6 +50,10 @@ The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), ba
 
 {%include about.md %}
 
+# Collaborators
+
+{%include about-collaborators.md %}
+
 
 # Made With
 

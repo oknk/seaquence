@@ -83,16 +83,6 @@ Share your Seaquences with friends and browse what other people have made to get
 {%include features.md %}
 
 
-# History
-
-{%include history.md %}
-
-
-# Presskit
-
-<a href="{{site.baseurl}}/press" class="button">View PressKit</a>
-
-
 # About Us
 
 {%include about.md %}

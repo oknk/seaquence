@@ -11,9 +11,9 @@ Included with the free download:
   - Social sharing features — Share your creations with your friends!
   - Parent Links are maintained — Trace back the history of a composition
 
-## Extra Features
+## Unlockable Features
 
-A single in-app purchase ({{ site.app.price }}) unlocks the entire app and includes:
+A single in-app purchase for {{ site.app.sale }} (discounted from {{ site.app.price }}) unlocks the full app and includes:
 
   - State-variable filter with hi-pass, band-pass, lo-pass, and notch modes, resonance Q, and attack envelope
   - Swing/Shuffle
@@ -22,3 +22,8 @@ A single in-app purchase ({{ site.app.price }}) unlocks the entire app and inclu
   - Global transpose
   - Lush delay effect module with feedback and FX-Send
   - MIDI I/O — Seaquence can send notes to external gear, and supports MIDI clock-sync!
+
+
+
+
+
