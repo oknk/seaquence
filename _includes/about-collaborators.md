@@ -16,7 +16,7 @@ Gray Area Foundation for the Arts, Inc. is a 501(c)3 Non-Profit Organization sup
   - Josette Melchor
   - Joe Brilliant
   - Tana Sprague
-  - Susan Langan
+  - Susan Langan (qzen)
   - Chris Delbuck
   - Julie Delbuck
   - Thomas Bates

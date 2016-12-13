@@ -81,15 +81,3 @@ Share your Seaquences with friends and browse what other people have made to get
 # Features
 
 {%include features.md %}
-
-
-# About Us
-
-{%include about.md %}
-
-
-# Made With
-
-<a href="http://libcinder.org"><img src="{{site.baseurl}}/images/logos/cinder.svg"  /></a>
-
-<a href="http://http://puredata.info/"><img src="{{site.baseurl}}/images/logos/puredata.png" /></a>

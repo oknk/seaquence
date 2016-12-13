@@ -2,7 +2,7 @@
 layout: page
 title: Press
 permalink: /press
-order: 2
+order: 3
 ---
 
 # Press
@@ -19,7 +19,7 @@ Seaquence is a music making app that enables you to create soundscapes with coll
 
 Featuring a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity.
 
-Edit your sounds with multi-touch controls including a polyphonic sequencer, chromatic scale w/octave, amplitude envelope editor, multiple waveform types, and more. With a single in-app purchase ({{ site.app.price }}), all extended features of the app unlocked  and include tape delay fx and fx send, filters (hipass, bandpass, lopass, and notch) and filter attack envelope, additional voice modes, extra sequencer controls, transpose, MIDI + Clock Sync, and more!
+Edit your sounds with multi-touch controls including a polyphonic sequencer, chromatic scale w/octave, amplitude envelope editor, multiple waveform types, and more. With a single in-app purchase ({{ site.app.sale }} -- discounted from {{ site.app.price }}), all extended features of the app unlocked  and include tape delay fx and fx send, filters (hipass, bandpass, lopass, and notch) and filter attack envelope, additional voice modes, extra sequencer controls, transpose, MIDI + Clock Sync, and more!
 
 <img src="{{site.baseurl}}/images/Seaquence-screenshot_iPad12.9_2x_browser_thumb.png" />
 
@@ -57,6 +57,4 @@ The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), ba
 
 # Made With
 
-<img src="{{site.baseurl}}/images/logos/cinder.svg"  />
-
-<img src="{{site.baseurl}}/images/logos/puredata.png" />
+{% include madewith.md %}
