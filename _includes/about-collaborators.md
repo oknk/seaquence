@@ -8,10 +8,10 @@ Daniel is an artist, musician, and designer currently based in Berlin. He was a 
 
 Gray Area Foundation for the Arts, Inc. is a 501(c)3 Non-Profit Organization supporting Art & Technology for Social Good.
 
+[grayarea.org](http://grayarea.org)
+
 {% if include.extended != false %}
-<a href="http://grayarea.org">
-<img src="{{site.baseurl}}/images/logos/grayarea.svg" />
-</a>
+![]({{site.baseurl}}/images/logos/grayarea.svg)
 
   - Josette Melchor
   - Joe Brilliant
