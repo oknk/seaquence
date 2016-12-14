@@ -11,8 +11,6 @@ Included with the free download:
   - Social sharing features — Share your creations with your friends!
   - Parent Links are maintained — Trace back the history of a composition
 
-## Unlockable Features
-
 A single in-app purchase ({{ site.app.price }}) unlocks the full app and includes:
 
   - State-variable filter with hi-pass, band-pass, lo-pass, and notch modes, resonance Q, and attack envelope
