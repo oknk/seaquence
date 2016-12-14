@@ -18,12 +18,8 @@ A single in-app purchase ({{ site.app.price }}) unlocks the full app and include
   - State-variable filter with hi-pass, band-pass, lo-pass, and notch modes, resonance Q, and attack envelope
   - Swing/Shuffle
   - Portamento/Glide
-  - More voice modes in addition to Polyphonic: Monophonic with Sub-Oscillator, and Unison
+  - More voice modes in addition to Polyphonic mode: Monophonic with Sub-Oscillator tuned to a 5th, and Unison
   - Global transpose
-  - Lush delay effect module with feedback and FX-Send
-  - MIDI I/O — Seaquence can send notes to external gear, and supports MIDI clock-sync!
-
-
-
-
-
+  - Delay FX module with feedback and FX-Send
+  - MIDI Notes Out: Send notes from individual creatures to external gear
+  - MIDI clock sync
