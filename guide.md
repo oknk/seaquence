@@ -19,9 +19,15 @@ Check out the community forum at _____ (?)
 
 When you first start the App, you are greeted with the Session Browser. Try exploring some of the preset session that ship with the app to get an idea of the kinds of sounds you'll be able to make. You can also delete the playing session and start a new one.
 
+![]({{site.baseurl}}/images/guide/session-browser.png)
+
 ## Edit a Session
 
-By tapping on the playing Seaquence session, you'll enter into the "Sea". Here, you can drag creatures around, and drag your view around. Notice how the stereo panning changes as you move around, and only the closest creatures are heard.
+By tapping on the playing Seaquence session, you'll enter into the "Sea".
+
+![]({{site.baseurl}}/images/guide/sea.png)
+
+Here, you can drag creatures around, and drag your view around. Notice how the stereo panning changes as you move around, and only the closest creatures are heard.
 
 ## Edit a Creature
 

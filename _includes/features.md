@@ -13,7 +13,7 @@ Included with the free download:
 
 ## Unlockable Features
 
-A single in-app purchase for {{ site.app.sale }} (discounted from {{ site.app.price }}) unlocks the full app and includes:
+A single in-app purchase ({{ site.app.sale }}) unlocks the full app and includes:
 
   - State-variable filter with hi-pass, band-pass, lo-pass, and notch modes, resonance Q, and attack envelope
   - Swing/Shuffle
