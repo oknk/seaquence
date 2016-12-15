@@ -20,7 +20,6 @@ Gray Area Foundation for the Arts, Inc. is a 501(c)3 Non-Profit Organization sup
   - Susan Langan (qzen)
   - Chris Delbuck
   - Julie Delbuck
-  - Janetti Chon
   - Melissa Wilson
 
   {% endif %}
