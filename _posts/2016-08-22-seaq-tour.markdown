@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Seaquence Tour"
+date:   2016-08-22
+author: ryan
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KpJpppxLew4" frameborder="0" allowfullscreen></iframe>
