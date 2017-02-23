@@ -5,15 +5,17 @@ title: Home
 order: 1
 ---
 
+
 # Make living music!
+
+Seaquence is a music-making app that allows you to make musical compositions with collections of sonic creatures. As they swim around, the closest creatures can be heard, resulting in a organic sounding mix that changes as you play. Visually immersive and sonically dynamic, Seaquence is an immersive audiovisual composition environment.
 
 <img src="{{site.baseurl}}/images/Seaquence-iPad12.9_2x_3up_thumb.png" />
 
-Seaquence is a unique music-making app that allows you to compose with collections of sonic creatures. The closest creatures can be heard, resulting in a organic sounding mix that changes as you play. Visually immersive and sonically dynamic, Seaquence is an immersive audiovisual composition environment.
-
 Featuring a pro-level synthesizer and timing engine controlled by a fun and direct interface, even composers who are brand new to synthesis will be able to unlock their synesthetic creativity.
 
-Share your Seaquences with friends and browse what other people have made to get inspired!
+Share your completed Seaquences with friends and browse what other people have made to get inspired!
+
 
 
 # Announce List

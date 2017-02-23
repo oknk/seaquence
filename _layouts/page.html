@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<div class="root container">
+<header>
+  <a href="{{site.baseurl}}">
+  <img src='{{site.baseurl}}/images/header.svg' class='header'>
+  </a>
+</header>
 
-  <header>
-    <a href="{{site.baseurl}}">
-    <img src='{{site.baseurl}}/images/header.svg' class='header'>
-    </a>
-  </header>
+<div class="root container">
 
   {% include nav.html %}
 

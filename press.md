@@ -4,12 +4,15 @@ title: Press
 permalink: /press
 order: 3
 ---
+{::options parse_block_html="true" /}
 
 # Press
 
 {%include presskit_dl.html %}
 
-Seaquence, a unique musical composition app will soon be released on the iOS App Store. It will run on all modern iOS 8 (or newer) devices and screen sizes. The official release date has yet to be announced.
+Release Date: March 14 2017
+
+Seaquence, a unique musical composition app will be released on the iOS App Store on March 14th, 2017. It will run on all modern iOS 8 (or newer) devices and screen sizes.
 
 <img src="{{site.baseurl}}/images/Seaquence-iPad12.9_2x_3up_thumb.png" />
 
@@ -19,6 +22,8 @@ Featuring a pro-level synthesizer and timing engine controlled by a fun and dire
 
 Edit your sounds with multi-touch controls including a polyphonic sequencer, chromatic scale w/octave, amplitude envelope editor, multiple waveform types, and more. With a single in-app purchase ({{ site.app.price }}), all extended features of the app unlocked  and include tape delay fx and fx send, filters (hipass, bandpass, lopass, and notch) and filter attack envelope, additional voice modes, extra sequencer controls, transpose, MIDI + Clock Sync, and more!
 
+
+
 <img src="{{site.baseurl}}/images/Seaquence-screenshot_iPad12.9_2x_browser_thumb.png" />
 
 Share your creations with friends via a sharable link, and browse what other people have made to get inspired!
@@ -27,11 +32,15 @@ The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), ba
 
 
 
+<section class="c_bg1">
+
 # Videos
 
 <a class="button" href="https://www.youtube.com/watch?v=V_iArMbGdnc">Watch Teaser on Youtube</a>
 
 <a class="button" href="https://www.youtube.com/watch?v=sO59g51Ich8">Watch Demo on Youtube</a>
+
+</section>
 
 
 # Features
@@ -39,18 +48,25 @@ The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), ba
 {%include features.md %}
 
 
+<section class="c_bg2">
+# About Us
+
+{%include about.md %}
+</section>
+
 # History
 
 {%include history.md %}
 
 
-# About Us
 
-{%include about.md %}
 
+<section class="c_bg3">
 # Collaborators
 
 {%include about-collaborators.md %}
+</section>
+
 
 
 # Made With

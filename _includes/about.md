@@ -1,13 +1,13 @@
-The Seaquence App was created by Ryan Alexander and Gabriel Dunne. Their studio [Okaynokay](http://okaynokay.xyz), is based in Oakland, California.
+Seaquence was created by Ryan Alexander and Gabriel Dunne ([Okaynokay](http://okaynokay.xyz)), based in the San Francisco Bay Area.
 
 ### Ryan Alexander
 
-Ryan artist and researcher currently focused on interactive audio/visual experience design. His recent works include generative simulations, live visual performance, spherical photography, and motion graphics experiments.
-
 [onecm.com](http://onecm.com)
+
+Ryan artist and researcher currently focused on interactive audio/visual experience design. His recent works include generative simulations, live visual performance, spherical photography, and motion graphics experiments.
 
 ### Gabriel Dunne
 
-Gabe is an artist and designer who creates audio/visual experiences and live a/v performance. He integrates a wide range of mediums including audio and visual software, installation, visualization/sonification, sculpture, and digital fabrication.
-
 [gabrieldunne.com](http://gabrieldunne.com)
+
+Gabe is an artist from San Francisco who creates experiences and performances in multiple mediums from digital fabrication to sculpture to A/V software. He has integrated computing and software as a creative tool into his practice ever since he was introduced to his Dad's Commodore 64 and Amiga 1000 as a toddler.
