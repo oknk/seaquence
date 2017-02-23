@@ -10,4 +10,4 @@ Ryan artist and researcher currently focused on interactive audio/visual experie
 
 [gabrieldunne.com](http://gabrieldunne.com)
 
-Gabe is an artist from San Francisco who creates experiences and performances in multiple mediums from digital fabrication to sculpture to A/V software. He has integrated computing and software as a creative tool into his practice ever since he was introduced to his Dad's Commodore 64 and Amiga 1000 as a toddler.
+Gabriel is an artist from San Francisco who creates experiences and performances in multiple mediums from digital fabrication to sculpture to A/V software. He has used computing and software as a creative tool ever since he was introduced to his Dad's Commodore 64 and Amiga 1000 as a toddler.
