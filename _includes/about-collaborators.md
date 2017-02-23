@@ -10,16 +10,4 @@ Gray Area Foundation for the Arts, Inc. is a 501(c)3 Non-Profit Organization sup
 
 [grayarea.org](http://grayarea.org)
 
-{% if include.extended != false %}
 ![]({{site.baseurl}}/images/logos/grayarea.svg)
-
-  - Josette Melchor
-  - Barry Threw
-  - Joe Brilliant
-  - Tana Sprague
-  - Susan Langan (qzen)
-  - Chris Delbuck
-  - Julie Delbuck
-  - Melissa Wilson
-
-  {% endif %}
