@@ -1,3 +1,3 @@
 #!/bin/sh
-echo "Serving via http://0.0.0.0:4000/seaquence/"
-jekyll serve --host 0.0.0.0 --watch --baseurl /seaquence
+echo "Serving via http://localhost:4000/seaquence/"
+jekyll serve --watch --baseurl /seaquence
