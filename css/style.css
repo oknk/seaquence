@@ -55,17 +55,30 @@ img {
   max-width: 100%;
 }
 header {
-  padding: 50px 0 20px 0;
+  padding:0;
   width: 100%;
-  background-image: url('/seaquence/images/screenshot_HD1080_4x_00008_c.jpg');
-  background-repeat: no-repeat;
-  background-position: center center;
+  /*background-image: url('/seaquence/images/screenshot_HD1080_4x_00008_c.jpg');*/
+  /*background-repeat: no-repeat;*/
+  /*background-position: center center;*/
+  background-color: rgb(22, 25, 36);
   text-align: center;
+  height: 250px;
 }
 header img {
   width: 100%;
   max-width: 700px;
   margin: 0 auto;
+  position:relative;
+  padding-top:60px;
+  z-index:1;
+}
+header video {
+  position: absolute;
+  top: 0px;
+  height:250px;
+  z-index:0;
+  left: 50%;
+  transform: translateX(-50%);
 }
 header.post-header {
   margin: 0;
