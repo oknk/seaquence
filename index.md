@@ -26,6 +26,9 @@ Share your completed Seaquences with friends and browse what other people have m
 
 ## Twitter
 {%include twitter.html %}
+
+## Email
+<a href="mailto:ping@seaquence.org">ping@seaquence.org</a>
 </section>
 
 

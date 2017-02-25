@@ -7,6 +7,11 @@ order: 10
 
 # Contact
 
-<a href="mailto:ping@seaquence.org">ping@seaquence.org</a>
+# Announce List
+{%include mailinglist.html %}
 
-twitter: [@seaquence](http://twitter.com/seaquence)
+## Twitter
+{%include twitter.html %}
+
+## Email
+<a href="mailto:ping@seaquence.org">ping@seaquence.org</a>
