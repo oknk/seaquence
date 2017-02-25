@@ -24,11 +24,10 @@
     display:none;
   }
   header {
-/*    background-image: url('/seaquence/images/screenshot_HD1080_4x_00008_c.jpg');
+    background-image: url('/seaquence/images/screenshot_HD1080_4x_00008_c.jpg');
     background-repeat:no-repeat;
-    background-position: center center;*/
+    background-position: center center;
     height:150px !important;
-    background:none !important;
   }
   header img {
     padding-top:35px !important;
