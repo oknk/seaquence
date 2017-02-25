@@ -20,6 +20,14 @@
     font-size: 0.8em !important;
     padding: 0.5em !important;
   }
+  video {
+    display:none;
+  }
+  header {
+    background-image: url('/seaquence/images/screenshot_HD1080_4x_00008_c.jpg');
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
 }
 body {
   font-family: Helvetica, Arial, sans-serif;
