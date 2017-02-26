@@ -6,9 +6,9 @@ order: 1
 ---
 {::options parse_block_html="true" /}
 
-<section>
-# Make living music!
+<h1 style="text-align:center">Make living music!</h1>
 
+<section>
 Seaquence is a music-making app that allows you to compose with collections of sonic synthforms. As they swim around, the closest synthforms can be heard, resulting in organic sounding mixes that changes as you play. Visually immersive and sonically dynamic, Seaquence is a unique and captivating audiovisual experience.
 
 <img src="{{site.baseurl}}/images/Seaquence-iPad12.9_2x_3up_thumb.png" />
@@ -34,7 +34,7 @@ Share your completed Seaquences with friends and browse what other people have m
 
 # Videos
 
-<br /><br />
+<br />
 
 {%include youtube.html id="V_iArMbGdnc" %}<br />
 {%include youtube.html id="sO59g51Ich8" %}
@@ -86,6 +86,6 @@ Share your completed Seaquences with friends and browse what other people have m
 </div>
 
 
-# Features
+# App Features
 
 {%include features.md %}
