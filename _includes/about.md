@@ -10,4 +10,4 @@ Ryan artist and researcher currently focused on interactive audiovisual experien
 
 [gabrieldunne.com](http://gabrieldunne.com)
 
-Gabriel is an artist from San Francisco who creates audio, visual, and physical experiences and performances. With a background in design and music, he has used digital tools in his practice ever since he was introduced to his Dad's Commodore 64 and Amiga 1000 as a toddler.
+Gabriel is an artist, designer and musician who creates audio, visual, and physical experiences and performances. With a background in design and music, he has used digital tools in his practice ever since he was introduced to his Dad's Commodore 64 and Amiga 1000 as a toddler.
