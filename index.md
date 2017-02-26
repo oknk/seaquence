@@ -30,14 +30,6 @@ Share your completed Seaquences with friends and browse what other people have m
 </section>
 
 
-# Videos
-
-<br />
-
-{%include youtube.html id="V_iArMbGdnc" %}<br />
-{%include youtube.html id="sO59g51Ich8" %}
-
-
 # Screenshots
 
 ## iPad
@@ -82,6 +74,20 @@ Share your completed Seaquences with friends and browse what other people have m
 <img src="{{site.baseurl}}/images/screenshots/screenshot_iPhone6p_3x_00049_thumb.png">
 </a>
 </div>
+
+<br />
+
+
+<section class="c_bg2">
+<h1>Videos</h1>
+
+<br />
+
+{%include youtube.html id="V_iArMbGdnc" %}<br />
+
+{%include youtube.html id="sO59g51Ich8" %}
+</section>
+
 
 
 # iOS App Features

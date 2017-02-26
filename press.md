@@ -34,7 +34,7 @@ The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), ba
 </section>
 
 
-<section class="c_bg1">
+<section class="c_bg2">
 
 # Videos
 
@@ -50,7 +50,7 @@ The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), ba
 {%include features.md %}
 </section>
 
-<section class="c_bg2">
+<section class="c_bg1">
 # About Us
 
 {%include about.md %}

@@ -6,7 +6,7 @@ order: 2
 ---
 {::options parse_block_html="true" /}
 
-<section class="c_bg2">
+<section class="c_bg1">
 # About Us
 
 {%include about.md %}
