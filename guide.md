@@ -7,11 +7,9 @@ order: -1
 
 # Guide
 
-Thank you for using Seaquence! This app is made with love, and designed to be used and enjoyed, hopefully giving you hours of creative and sonic experiences.
+Thank you for using Seaquence! This app is made with love, and designed to be used and enjoyed, hopefully giving you hours of creative sonic experiences.
 
 To get the most out of Seaquence, we've created this user guide. There's a [quick](#quick) version and a [full](#full) version.
-
-Check out the community forum at _____ (?)
 
 <a name="quick"></a>
 
@@ -74,6 +72,8 @@ Coming soon!
 
 ## Table of Contents
 
+<div>
+
 <ul class="contents">
 
 <li>1.  &nbsp;&nbsp;&nbsp; Overview</li>
@@ -128,6 +128,7 @@ Coming soon!
 <li>9.1 &nbsp; MIDI Notes Out</li>
 <li>9.2 &nbsp; MIDI Clock In/Out</li>
 
+</div>
 
 <br />
 <br />

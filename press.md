@@ -16,7 +16,7 @@ Seaquence, a unique musical composition app will be released on the iOS App Stor
 
 <img src="{{site.baseurl}}/images/Seaquence-iPad12.9_2x_3up_thumb.png" />
 
-Seaquence is a music making app that enables you to create soundscapes with collections of swimming musical "synthforms". A spatialized mix emerges as only the closest synthforms can be heard, resulting in a organic sonic experience that changes as you play. Visually immersive and sonically dynamic, Seaquence is a unique and fun audiovisual environment.
+Seaquence is a music making app that enables you to create soundscapes with collections of swimming musical creatures. A spatialized mix emerges as only the closest voices can be heard, resulting in a organic sonic experience that changes as you play. Visually immersive and sonically dynamic, Seaquence is a unique and fun audiovisual environment.
 
 Featuring a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity.
 
