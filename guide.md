@@ -5,6 +5,14 @@ permalink: /guide
 order: 3
 ---
 
+<style>
+
+h3 {
+  color: #D1518A;
+}
+
+</style>
+
 # Guide
 
 To get the most out of Seaquence, we've created this user guide that goes over its features ranging from basics to some hidden tricks. It's a continous work in progress as we make updates to the app.
@@ -13,80 +21,241 @@ Feel free to [contact](/seaquence/contact) us with any questions.
 
 <a name="quick"></a>
 
-# Quick Guide
+## MIXER
 
-When you first start the app, you're greeted with a demo session and an info overlay.
+![]({{site.baseurl}}/images/guide/guide-mixer.png)
 
-![]({{site.baseurl}}/images/screenshots/screenshot_iPad9.7_2x_00033.png)
+### (A)
+The Seaquence Mixer, you can drag creatures around, as well as the view. Notice how the stereo panning changes as you move creatures and the view. Only the closest creatures are heard. You'll be able to hear up to 8 voices at once.
 
-After tapping "OKAY!", in this view you can drag creatures around, and drag your view around. Notice how the stereo panning changes as you move creatures and the view. Only the closest creatures are heard.
+### (B)
+Creatures. You can drag creatures around the view to create different mixes. TAP on a creature to open its editor, PRESS & HOLD to delete.
 
-You can start and stop the synth from playing at any time by tapping the play/pause button at the top of the screen.
+### (C)
+Play/Pause. You can start and stop the synth from playing at any time.
 
-## Delete Creatures
+### (D)
+Add new. Creates a new creature with random parameters.
 
-PRESS & HOLD to delete creatures.
+### (E)
+GLobals. These are variables that affect the entire mix. Tonality, Tempo/BPM, and Delay FX.
 
-## Add new Creature
+### (F)
+Save, Share, and Browse. Browse and save your local sessions, and explore online sessions that people have shared. You can also get a public link to your session that you can share with others.
 
-By tapping the green Add Creature button on the top left, a new creature will be created and you will open the editor.
+## VOICE EDITOR
 
-TIP: Once the editor is open, long-pressing the Add button will clone the current creature.
-
-## Edit a Creature
-
-Back in the composition, when you tap a creature, its voice editor opens.
-There are 4 tabs:
+When you tap on a creature, it opens the voice editor. On the bottom, there are four tabs. From left to right, they are TONES, SEQUENCER, ENVELOPES, and GLOBAL. When loading Seaquence for the first time, it will open to the SEQUENCER tab.
 
 ![]({{site.baseurl}}/images/guide/editor-tabs.png)
 
-### 1. Scale
 
-![]({{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00053_thumb.png)
 
-Here you can select which notes of the 12-note chromatic scale the sequencer uses, and below it you can change the octave.
 
-### 2. Sequencer
 
-![]({{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00029_thumb.png)
+## SEQUENCER
 
-The main "DNA" of the creature – a 16x16 matrix sequencer. Below the sequencer from left to right are step timing, shuffle, glide, and voice mode.
+![]({{site.baseurl}}/images/guide/guide-seq.png)
 
-### 3. Envelopes
+### (A)
+The mixer is still accessable in the editor. You can TAP on the mixer to close the editor, or select other creatures directly.
 
-![]({{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00009_thumb.png)
+### (B)
+Close editor.
 
-Here, you can select which waveform the creature uses, and adjust the amplitude envelope and note length.
+### (C)
+Add new creature. TIP: When in the voice editor, you can PRESS & HOLD to clone the current selected creature.
 
-The first set of five colored icons are the Oscillator type -- Square (Green), Saw (Red), Sin (Blue), Tri (Yellow), and Noise (Pink).
+### (D)
+Solo. Toggle this control to hear just the selected creature, or the whole mix.
 
-Below that is the ADSR-L control, which effects the amplitude of each tone played in the sequencer. The long slider underneath the ADSR is "L", standing for "length", which controls how long each note is held down, as if it were a key on a piano.
+### (E)
+The main "DNA" of the selected creature – a multi-touch 16x16 matrix sequencer. Note the subtle tick-marks at the left of the sequencer. These signify the "root note", set on the SCALE page.
 
-Below that is the Filter envelope. The left handle is the filter attack time and cutoff frequency, the second handle is the destination cutoff and frequency, and the far right handle toggles through the filter types: Low Pass, High Pass, Band Pass, and Notch.
+### (F)
+Note Step. Change the speed of the sequencer from 1/1 up to 1/64.
 
-### 4. Global Controls
+### (G)
+Shuffle. Give the sequence a bit more groove by adjusting the shuffle from left to right.
 
-![]({{site.baseurl}}/images/screenshots/screenshot_iPad9.7_0.5x_00000.png)
+### (H)
+Glide controls how fast each note blends into the next one.
 
-These are global controls for the entire composition. Here you can edit the tempo and master volume. The first knob on the top left is Transpose, which changes the overall tone of the session. Then there is a Master Volume slider , and a BPM knob which controls the over all tempo of the composition.
+### (I)
+Voice Modes. There are three voice modes:
 
-Below is the Delay effect. I you've entered the global controls after selecting a creature, you will see the creatures FX send which controls the amount its voice will be affected by the delay effect. If you enter this panel directly, this control will be hidden.
+  1. Polyphonic: Up to 5 tones at once
+  2. Unison: All tones voice at once with a subtle d-tune.
+  3. Mono + Sub: Monophonic with a sub-osciallator tuned to a 5th.
 
-The delay effect has two areas of interaction -- by dragging on the delay bars directly, and the quantized area below. When dragging on the delay area left to right, you will change the delay timing freely. When dragging on the gray quantized area below, it will change the delay timing quantized to 1/4 and 1/3 timings relative to the Tempo/BPM.
 
-Note: You can access this panel directly from the Sea.
 
-To exit any editor, tap on the "Sea" area or tap the close editor icon on the top left.
 
-## Save + Share + Explore
 
-![]({{site.baseurl}}/images/screenshots/screenshot_iPad12.9_2x_00066_thumb.png)
+## TONES
 
-In this area, you can save your session by tapping green "Save Session" button on the right of the editor. It will prompt you for a Name and Creator for the session, and will save on your device. To share, tap the Cloud icon on the sessions thumbnail and it will return a sharable link.
+![]({{site.baseurl}}/images/guide/guide-scale.png)
 
-Tap the Galaxy icon in the top center of the editor to browse all publically shared Seaquence links. If you are inspired by anything you find, you can download them and modify, change, remix, and make them your own.
+### (A)
+Active chromatic tones. Select which notes of the 12-note chromatic scale the sequencer are active.
 
-To start a new session from scratch, tap the icon on the top right of the screen to clear.
+### (B)
+Current Octave. You may need to adjust this if you have more or less tones in active in the scale.
+
+
+
+
+## ENVELOPES
+
+![]({{site.baseurl}}/images/guide/guide-env.png)
+
+### (A)
+Oscillator waveform type. This also sets the color of the creature.
+
+  1. Square (Green)
+  2. Saw (Red)
+  3. Sine (Blue)
+  4. Triangle (Yellow)
+  5. Noise (Pink)
+
+### (B)
+ADSR envelope control. These handles affect the amplitude of each tone played in the sequencer. From left to right, the handles are ATTACK, DECAY, SUSTAIN, and RELEASE. You can also drag on the paths of the envelope to adjust the curves.
+
+### (C)
+The long slider underneath the ADSR controls how long each note is held down, as if it were a key on a piano. The more this slider is to the right, the longer the note holds.
+
+### (D)
+FILTER envelope attack time and cutoff. This is an X/Y handle, left to right controls the attack envelope time, and up and down controls the starting cutoff frequency of the envelope. Just like the ADSR, you can drag on the path to adjust the curve.
+
+### (E)
+The second handle of the FILTER is also an X/Y control, left to right is resonance, or "Q", and up and down is the cutoff frequency,
+
+### (F)
+FILTER mode. Tap on this control to toggle through the four filter modes.
+
+  1. Low Pass
+  2. High Pass
+  3. Band Pass
+  4. Notch (Band Reject)
+
+
+
+## GLOBALS
+
+![]({{site.baseurl}}/images/guide/guide-global.png)
+
+Controls in this panel affect your entire composition.
+
+TIP: You can access this panel directly from the MIXER.
+
+### (A)
+Transpose. This is a tonality control, transposing all creatures to a specific key. The default is C.
+
+### (B)
+Master Volume.
+
+### (C)
+Master Tempo, displayed as Beats Per Minute (BPM).
+
+### (D)
+Voice FX Send. If you access this panel when a creature is selected, this control adjust the amount the voice will be heard in the DELAY.
+
+### (E)
+Delay Time. Drag here to adjust the delay time freely.
+
+### (F)
+Delay Time Quantized. Drag in this gray area to adjust the delay timing as a quantized value relative to the Tempo/BPM.
+
+### (G)
+Delay Feedback. Adjust this to control the overall amount of delay.
+
+As a reminder, to exit any editor, tap on the MIXER area or tap the close editor icon on the top left of the editor.
+
+
+
+
+
+## SAVE & SHARE
+
+![]({{site.baseurl}}/images/guide/guide-browser.png)
+
+In this editor, you can save and share sessions you've made or found in the Seaquence GALAXY.
+
+### (A)
+The current session. Tap here to go back to the MIXER.
+
+### (B)
+Create new session from scratch.
+
+### (C)
+Close Editor.
+
+### (D)
+Explore the Seaquence GALAXY! An online browser of publically shared sessions.
+
+### (E)
+Save the current session. It will prompt you for a Name and Creator for the session, and will save locally on your device.
+
+### (F)
+A locally saved session. Tap to load.
+
+### (G)
+Share. Tap the cloud to get a public and sharable link to your session.
+
+
+
+
+
+## EXPLORE
+
+![]({{site.baseurl}}/images/guide/guide-galaxy.png)
+
+Tap on the GALAXY icon to discover what people have made and shared with Seaquence! If you are inspired by anything you find, you can download them and modify, change, remix, and make them your own!
+
+### (A)
+Refresh sessions by loading the latest shared sessions.
+
+### (B)
+A shared session. Tap to preview.
+
+### (C)
+Download session to your device so you can edit it.
+
+### (D)
+Next page. When navigating, you'll get a previous page icon on the right to go back.
+
+### (E)
+Exit GALAXY.
+
+
+
+
+## MIDI
+
+![]({{site.baseurl}}/images/guide/guide-midi.png)
+
+Seaquence supports MIDI! You can send notes and messages from each creature on MIDI channels 1-16, as well as receive notes and messages.
+
+### (A)
+MIDI IN Channel. 1 thru 16.
+
+### (B)
+MIDI OUT Channel. 1 thru 16.
+
+Enable MIDI in the App Preferences.
+
+![]({{site.baseurl}}/images/guide/guide-midi-prefs.png)
+
+You can also set various methods of MIDI CLOCK sync, allows you to sync Seaquence to external gear or apps.
+
+  1. Off
+  2. Send (Master)
+  3. Sync to External (Slave)
+
+
+
+<!--
+
 
 <br />
 <br />
@@ -162,3 +331,4 @@ Detailed Manual Coming soon!
 <br />
 
 
+-->
