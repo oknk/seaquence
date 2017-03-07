@@ -2,28 +2,26 @@
 layout: page
 title: Guide
 permalink: /guide
-order: -1
+order: 3
 ---
 
 # Guide
 
-Thank you for using Seaquence! This app is made with love, and designed to be used and enjoyed, hopefully giving you hours of creative sonic experiences.
+To get the most out of Seaquence, we've created this user guide. It's a continous work in progress as we make updates.
 
-To get the most out of Seaquence, we've created this user guide. There's a [quick](#quick) version and a [full](#full) version.
+Feel free to [contact](/seaquence/contact) us with more questions.
+
+<!-- There's a [quick](#quick) version and a [full](#full) version. -->
 
 <a name="quick"></a>
 
 # Quick Guide
 
-When you first start the App, you are greeted with the Session Browser. Try exploring some of the preset session that ship with the app to get an idea of the kinds of sounds you'll be able to make. You can also delete the playing session and start a new one.
+When you first start the app, you're greeted with a demo session.
 
-![]({{site.baseurl}}/images/guide/session-browser.png)
+You can drag creatures around, and drag your view around. Notice how the stereo panning changes as you move around, and only the closest creatures are heard.
 
-## Edit a Session
-
-By tapping on the playing Seaquence session, you'll enter into the "Sea".
-
-![]({{site.baseurl}}/images/guide/sea.png)
+![]({{site.baseurl}}/images/screenshot_iPad9.7_2x_00033.png)
 
 Here, you can drag creatures around, and drag your view around. Notice how the stereo panning changes as you move around, and only the closest creatures are heard.
 
@@ -43,7 +41,7 @@ The main "DNA" of the creature. This is the note sequencer page, as well as note
 
 Here, you can select which waveform the creature uses, and adjust the amplitude envelope and note length.
 
-### 4. Master Channel
+### 4. Global Controls
 
 These are global controls for the entire composition. Here you can edit the tempo and master volume.
 
@@ -72,9 +70,9 @@ Coming soon!
 
 ## Table of Contents
 
-<div>
+<section>
 
-<ul class="contents">
+<ul class="manual">
 
 <li>1.  &nbsp;&nbsp;&nbsp; Overview</li>
 <br />
@@ -128,7 +126,7 @@ Coming soon!
 <li>9.1 &nbsp; MIDI Notes Out</li>
 <li>9.2 &nbsp; MIDI Clock In/Out</li>
 
-</div>
+</section>
 
 <br />
 <br />
