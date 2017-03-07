@@ -9,7 +9,7 @@ order: 3
 
 To get the most out of Seaquence, we've created this user guide that goes over its features ranging from basics to some hidden tricks. It's a continous work in progress as we make updates to the app.
 
-Feel free to [contact](/seaquence/contact) us with more questions.
+Feel free to [contact](/seaquence/contact) us with any questions.
 
 <a name="quick"></a>
 
