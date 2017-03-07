@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-osx-font-smoothing: grayscale;
   max-width: 700px;
   margin: 0 auto;
-  padding: 0 1.6em;
+  /*padding: 0 1.6em;*/
 }
 h1, h2, h3 {
   margin-top: 1.5em;
@@ -117,7 +117,7 @@ header.post-header {
 p {
   max-width: 700px;
   margin: 1em auto;
-  padding: 0 2em;
+  /*padding: 0 2em;*/
 }
 .c_fg1 {
   color: #64C556;

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Galaxy Session Browser"
+date:   2017-03-01
+author: Gabe
+---
+
+<img src="/seaquence/images/blog/galaxy.png" />
+
+Updates to the Seaquence online galaxy browser. Adds the ability to browse shared sessions from within the app.
