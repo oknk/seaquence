@@ -9,6 +9,7 @@ order: 3
 
 h3 {
   color: #D1518A;
+  border:1px solid #fff;
 }
 
 </style>
@@ -21,7 +22,7 @@ Feel free to [contact](/seaquence/contact) us with any questions.
 
 <a name="quick"></a>
 
-## MIXER
+# MIXER
 
 ![]({{site.baseurl}}/images/guide/guide-mixer.png)
 
@@ -43,7 +44,9 @@ Globals. These are variables that affect the entire mix. Tonality, Tempo/BPM, an
 ### F
 Save, Share, and Browse. Browse and save your local sessions, and explore online sessions that people have shared. You can also get a public link to your session that you can share with others.
 
-## VOICE EDITOR
+
+
+# VOICE EDITOR
 
 When you tap on a creature, it opens the voice editor. On the bottom, there are four tabs. From left to right, they are TONES, SEQUENCER, ENVELOPES, and GLOBAL. When loading Seaquence for the first time, it will open to the SEQUENCER tab.
 
@@ -53,7 +56,7 @@ When you tap on a creature, it opens the voice editor. On the bottom, there are 
 
 
 
-## SEQUENCER
+# SEQUENCER
 
 ![]({{site.baseurl}}/images/guide/guide-seq.png)
 
@@ -92,7 +95,7 @@ Voice Modes. There are three voice modes:
 
 
 
-## TONES
+# TONES
 
 ![]({{site.baseurl}}/images/guide/guide-scale.png)
 
@@ -105,7 +108,7 @@ Current Octave. You may need to adjust this if you have more or less tones in ac
 
 
 
-## ENVELOPES
+# ENVELOPES
 
 ![]({{site.baseurl}}/images/guide/guide-env.png)
 
@@ -140,7 +143,7 @@ FILTER mode. Tap on this control to toggle through the four filter modes.
 
 
 
-## GLOBALS
+# GLOBALS
 
 ![]({{site.baseurl}}/images/guide/guide-global.png)
 
@@ -175,7 +178,7 @@ As a reminder, to exit any editor, tap on the MIXER area or tap the close editor
 
 
 
-## SAVE & SHARE
+# SAVE & SHARE
 
 ![]({{site.baseurl}}/images/guide/guide-browser.png)
 
@@ -206,7 +209,7 @@ Share. Tap the cloud to get a public and sharable link to your session.
 
 
 
-## EXPLORE
+# EXPLORE
 
 ![]({{site.baseurl}}/images/guide/guide-galaxy.png)
 
@@ -230,7 +233,7 @@ Exit GALAXY.
 
 
 
-## MIDI
+# MIDI
 
 ![]({{site.baseurl}}/images/guide/guide-midi.png)
 
