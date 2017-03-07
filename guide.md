@@ -29,11 +29,14 @@ PRESS & HOLD to delete creatures.
 
 ## Add new Creature
 
-By tapping the green Add Creature button on the top left, a new creature will be created. If you tap this with the voice editor open, a clone of the current creature will be created.
+By tapping the green Add Creature button on the top left, a new creature will be created and you will open the editor.
+
+TIP: Once the editor is open, long-pressing the Add button will clone the current creature.
 
 ## Edit a Creature
 
-Back in the composition, when you tap a creature, its voice editor opens. There are 4 tabs:
+Back in the composition, when you tap a creature, its voice editor opens.
+There are 4 tabs:
 
 ![]({{site.baseurl}}/images/guide/editor-tabs.png)
 
