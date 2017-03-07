@@ -28,12 +28,9 @@
     padding-top: 0px !important;
   }
   header {
-
-
     background-image: url('/seaquence/images/screenshot_HD1080_4x_00008_c.jpg');
     background-repeat:no-repeat;
     background-position: center center;
-
     position: relative !important;
     height: 160px !important;
     background: none !important;
@@ -158,12 +155,15 @@ p {
 section {
   padding: 0.1em 0 2em 0;
 }
-ul {
+ul, ol {
   max-width: 700px;
   margin: 1em auto;
 }
-li ul {
+li ul, li ol {
   margin: 0;
+}
+li {
+  margin-left:1em;
 }
 article.post {
   max-width: 700px;
