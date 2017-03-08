@@ -41,8 +41,11 @@
   #nav {
     padding-top:1em;
     margin: 0 !important;
-    font-size:1.3em;
+    font-size:2em;
     padding: 0 !important;
+  }
+  #nav li:nth-child(odd) {
+    clear: left;
   }
 }
 body {
@@ -80,10 +83,9 @@ header {
   position: absolute;
   top: 0;
   padding: 0;
-  width: 100%;  /*background-image: url('/seaquence/images/screenshot_HD1080_4x_00008_c.jpg');*/
-
+  width: 100%;
+  /*background-image: url('/seaquence/images/screenshot_HD1080_4x_00008_c.jpg');*/
   /*background-repeat: no-repeat;*/
-
   /*background-position: center center;*/
   background-color: rgb(22, 25, 36);
   text-align: center;
@@ -252,6 +254,7 @@ article.post {
 }
 .container {
   width: 100%;
+  overflow: hidden;
   /*margin: 0em 1em !important;*/
 }
 .box {
