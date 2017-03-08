@@ -9,7 +9,7 @@ order: 1
 <h1 style="text-align:center">Make living music!</h1>
 
 <section>
-Seaquence is an app for iOS that enables you to compose music with collections of synthsizer creatures. Only the voices in view can be heard, resulting in organic and dynamic soundscapes as you explore and create your mix. The creatures body and tail are generated from the parameters of its synth and sequencer, which in turn modify its swimming patterns. Creating music with Seaquence is a visually and sonically immersive audiovisual experience. 
+Seaquence is an app for iOS that enables you to compose music with collections of synthsizer creatures. Only the voices in view can be heard, resulting in organic and dynamic soundscapes as you explore and create your mix. The creatures body and tail are generated from the parameters of its synth and sequencer, which in turn modify its swimming patterns. Creating music with Seaquence is a visually and sonically immersive audiovisual experience! 
 
 <img src="{{site.baseurl}}/images/Seaquence-iPad12.9_2x_3up_thumb.png" />
 
@@ -90,6 +90,6 @@ Seaquence enables you to share your sessions with friends with a sharable link, 
 
 
 
-# iOS App Features
+# Features
 
 {%include features.md %}
