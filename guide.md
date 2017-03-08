@@ -15,9 +15,9 @@ h3 {
 
 # Guide
 
-To get the most out of Seaquence, we've created this user guide that goes over its features ranging from basics to some hidden tricks. It's a continous work in progress as we make updates to the app.
+This guide goes over the features of Seaquence ranging from basics to some hidden tricks.
 
-Feel free to [contact](/seaquence/contact) us with any questions.
+More questions? [Contact us](/seaquence/contact).
 
 <a name="quick"></a>
 

@@ -10,7 +10,7 @@
     float: left;
   }
 }
-@media all and (max-width:500px) {
+@media all and (max-width:630px) {
   body {
     font-size: 1.0em !important;
     line-height: 1.4em !important;
@@ -24,21 +24,22 @@
     display: none;
   }
   .root {
-    padding-top: 0px !important;
+    padding-top: 0.5em !important;
   }
   header {
     background-image: url('/seaquence/images/screenshot_HD1080_4x_00008_c.jpg');
     background-repeat:no-repeat;
     background-position: center center;
+    background-size: 220% ;
     position: relative !important;
-    height: 160px !important;
-    background: none !important;
+    max-height: 130px !important;
   }
   header img {
     padding-top: 20px !important;
-    max-height: 130px;
+    max-height:100px;
   }
   #nav {
+    padding-top:1em;
     margin: 0 !important;
     font-size:1.3em;
     padding: 0 !important;
