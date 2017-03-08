@@ -9,7 +9,6 @@ order: 3
 
 h3 {
   color: #D1518A;
-  border:1px solid #fff;
 }
 
 </style>

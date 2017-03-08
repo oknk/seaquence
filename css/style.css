@@ -7,7 +7,6 @@
 @media (min-width:600px) {
   .screenshot-50 img {
     width: 45%;
-    margin: 1%;
     float: left;
   }
 }
@@ -60,6 +59,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-osx-font-smoothing: grayscale;
   max-width: 700px;
   margin: 0 auto;
+  padding: 0 20px;
   /*padding: 0 1.6em;*/
 }
 h1, h2, h3 {
@@ -117,7 +117,7 @@ header.post-header {
 p {
   max-width: 700px;
   margin: 1em auto;
-  /*padding: 0 2em;*/
+  padding: 0 20px;
 }
 .c_fg1 {
   color: #64C556;
@@ -157,12 +157,13 @@ p {
 section {
   padding: 0.1em 0 2em 0;
 }
-ul, ol {
+ul, ol  {
   max-width: 700px;
   margin: 1em auto;
 }
 li ul, li ol {
   margin: 0;
+  padding: 0;
 }
 li {
   margin-left:1em;
@@ -171,14 +172,25 @@ article.post {
   max-width: 700px;
   margin: 0 auto;
 }
+.post-content p {
+  padding:0;
+}
 .post-meta {
   font-size: 0.9em;
+}
+.post-list {
+  padding: 0;
 }
 .post-list h2 {
   margin: 0;
 }
 .post-list li {
   margin-bottom: 1em;
+  margin-left:0;
+  list-style-type:none;
+}
+.post-list li * {
+  padding:0;
 }
 .posts article.post {
   margin-bottom: 3em;
@@ -239,12 +251,15 @@ article.post {
 }
 .container {
   width: 100%;
+  /*margin: 0em 1em !important;*/
 }
 .box {
-
   /*max-width: 700px;*/
   padding: 0 auto;
   margin: 0 auto;
+}
+.box div {
+  padding: 0 20px;
 }
 .footer {
   width: 100%;
@@ -284,4 +299,10 @@ article.post {
 .screenshot-50, .screenshot-33 {
   max-width: 700px;
   margin: 0 auto;
+}
+.screenshot-50 a, .screenshot-33 a {
+  text-decoration:none;
+}
+.screenshot-50 img, .screenshot-33 img {
+  margin: 0 10px 10px 0;
 }
