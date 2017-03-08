@@ -12,26 +12,29 @@ order: 3
 
 Release Date: March 14, 2017
 
-Seaquence, a unique musical composition app will be released on the iOS App Store on March 14th, 2017. It will run on all modern iOS 8 (or newer) devices and screen sizes.
+Seaquence, a unique musical composition app will be released the iOS App Store on March 14th, 2017. It will run on all modern iOS 8 (or newer) devices and screen sizes.
 
 <img src="{{site.baseurl}}/images/Seaquence-iPad12.9_2x_3up_thumb.png" />
 
-Seaquence is a music making app that enables you to create soundscapes with collections of swimming musical creatures. A spatialized mix emerges as only the closest voices can be heard, resulting in a organic sonic experience that changes as you play. Visually immersive and sonically dynamic, Seaquence is a unique and fun audiovisual environment.
+Seaquence is an app for iOS that enables you to compose music with collections of synthsizer creatures. Only the voices in view can be heard, resulting in organic and dynamic soundscapes as you explore and create your mix. The creatures body and tail are generated from the parameters of its synth and sequencer, which in turn modify its swimming patterns.  Visually immersive and sonically dynamic, Seaquence is a unique and fun audiovisual environment.
 
-Featuring a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity.
+<img src="{{site.baseurl}}/images/screenshots/itunes_picks_1.0.1/screenshot_iPad12.9_0.5x_00032.png" />
 
-Edit your sounds with multi-touch controls including a polyphonic sequencer, chromatic scale w/octave, amplitude envelope editor, multiple waveform types, and more. With a single in-app purchase ({{ site.app.price }}), all extended features of the app unlock and include delay fx and fx send, filters (hipass, bandpass, lopass, and notch) and filter attack envelope, additional voice modes, extra sequencer controls, transpose, MIDI + Clock Sync, and more!
+Featuring a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity. For more experienced users, Seaquence features MIDI support and clock sync, allowing the app to integrate with other gear.
+
+<img src="{{site.baseurl}}/images/screenshots/itunes_picks_1.0.1/screenshot_iPad12.9_2x_00015_thumb.png" />
 
 
-<img src="{{site.baseurl}}/images/Seaquence-screenshot_iPad12.9_2x_browser_thumb.png" />
+Edit your sounds with multi-touch controls including a polyphonic sequencer, chromatic scale w/octave, amplitude envelope editor, multiple waveform types, and more. With a single in-app purchase ({{ site.app.price }}), all extended features of the app unlock and include delay fx and fx send, filters (hipass, bandpass, lopass, and notch) and filter attack envelope, additional voice modes, extra sequencer controls, transpose, MIDI + Clock Sync, and more.
 
-<section>
+<img src="{{site.baseurl}}/images/screenshots/itunes_picks_1.0.1/screenshot_iPad12.9_0.5x_00026.png" />
 
-Share your creations with friends via a sharable link, and browse what other people have made to get inspired!
+Seaquence enables you to share your sessions with friends with a sharable link, and has an in-app browser todiscover what other people are making.
 
-The Seaquence App is created by Ryan Alexander and Gabriel Dunne (Okaynokay), based on the original project [seaquence.org](http://seaquence.org) created by Ryan Alexander, Gabriel Dunne and Daniel Massey, with support from Gray Area Foundation for the Arts.
+<img src="{{site.baseurl}}/images/screenshots/itunes_picks_1.0.1/screenshot_iPad12.9_0.5x_00025.png" />
 
-</section>
+The Seaquence App is created by Okaynokay (Ryan Alexander and Gabriel Dunne), based on their original project [seaquence.org](http://seaquence.org) which was originally created by Ryan Alexander, Gabriel Dunne and Daniel Massey, with support from Gray Area Foundation for the Arts.
+
 
 
 <section class="c_bg2">
