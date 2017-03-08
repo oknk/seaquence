@@ -47,14 +47,18 @@ Save your sessions, share your sessions by creating a link, and explore online s
 
 # VOICE EDITOR
 
-When you tap on a creature, it opens the voice editor. On the bottom, there are four tabs. From left to right, they are
+When you tap on a creature, it opens the voice editor. On the bottom, there are four tabs.
+
+![]({{site.baseurl}}/images/guide/editor-tabs.png)
+
+From left to right, they are
 
   1. TONES
   2. SEQUENCER
   3. ENVELOPES
   4. GLOBAL
 
-![]({{site.baseurl}}/images/guide/editor-tabs.png)
+
 
 When tapping a creature for the first time, it will open to the SEQUENCER tab.
 
