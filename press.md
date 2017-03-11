@@ -3,6 +3,7 @@ layout: page
 title: Press
 permalink: /press
 order: 3
+class: c_bg3
 ---
 {::options parse_block_html="true" /}
 

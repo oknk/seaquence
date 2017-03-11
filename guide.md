@@ -2,7 +2,8 @@
 layout: page
 title: Guide
 permalink: /guide
-order: 3
+order: 2
+class: c_bg2
 ---
 
 <style>
@@ -15,7 +16,7 @@ h3 {
 
 # Guide
 
-To get the most out of Seaquence, read this guide. It includes the basics and some hidden tricks.
+The experience of making music and sounds with Seaquence is designed to be discoverable and fun, but this guide outlines all the features allowing you to to get the most out of it. It goes over the basics and exposes some hidden tricks!
 
 More questions? [Contact us](/seaquence/contact).
 
@@ -245,7 +246,7 @@ Exit the galaxy view.
 
 ![]({{site.baseurl}}/images/guide/guide-midi.png)
 
-Seaquence supports MIDI! You can send notes and messages from each creature on MIDI channels 1-16, as well as receive notes and messages.
+Seaquence supports MIDI i/o! You can send/receive notes and messages to/from any creature on MIDI channels 1-16, and send/receive global clock-sync messages.
 
 ### A. MIDI IN CHANNEL
 1 thru 16.

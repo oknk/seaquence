@@ -2,7 +2,8 @@
 layout: page
 title: Contact
 permalink: /contact
-order: 10
+order: 4
+class: c_bg4
 ---
 
 # Contact

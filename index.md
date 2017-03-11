@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 title: Home
-order: 1
+order: -1
 ---
 {::options parse_block_html="true" /}
 
