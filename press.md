@@ -13,7 +13,7 @@ class: c_bg3
 
 Release Date: March 14, 2017
 
-Seaquence, a unique musical composition app will be released the iOS App Store on March 14th, 2017. It will run on all modern iOS 8 (or newer) devices and screen sizes.
+Seaquence, a unique musical composition app is available on the iOS App Store. It runs on all modern iOS 8 (or newer) devices and screen sizes.
 
 <a href="{{site.baseurl}}/images/screenshots/3-up.png">
 <img src="{{site.baseurl}}/images/screenshots/3-up-700px.png" />
@@ -82,8 +82,13 @@ The Seaquence App is created by Okaynokay (Ryan Alexander and Gabriel Dunne), ba
 {%include about-collaborators.md %}
 </section>
 
-
-
 # Made With
 
 {% include madewith.md %}
+
+# Press Articles
+
+- March 14 2017 [Seaquence lets you make music as animated ocean creatures](http://cdm.link/2017/03/seaquence-lets-make-music-animated-ocean-creatures/) -- CDM
+- March 14 2017 [Seaquence – Growin’ groove in a Petri dish](http://www.creativeapplications.net/cinder/seaquence-growin-groove-in-a-petri-dish/) -- Creative Applications
+
+
