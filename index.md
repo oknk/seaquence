@@ -14,11 +14,11 @@ order: -1
 <img src="{{site.baseurl}}/images/screenshots/3-up-700px.png" />
 </a>
 
-<center>
+<!-- <center>
 <a href="https://itunes.apple.com/us/app/seaquence/id1106270489" class="appstore_dl">
 <img src="{{site.baseurl}}/images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
 </a>
-</center>
+</center> -->
 
 Seaquence is a music app for iOS that enables you to compose sounds with collections of organic creatures, each with their own synth voice. Only the voices in view can be heard, resulting in organic and dynamic soundscapes as you explore and create your mix. The creatures body and tail are generated from the parameters of its synth and sequencer, which in turn modify its swimming patterns. Creating music with Seaquence is both visually and sonically immersive -- it's an audiovisual experience!
 
