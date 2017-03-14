@@ -10,7 +10,7 @@ a:active {
   outline: none
 }
 a:hover  {
-  color: #53DFFA !important;
+  color: #C8EBFA !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .button:hover {
-  background:#202027;
+  background:#464C50;
 }
 
 .button-disabled {

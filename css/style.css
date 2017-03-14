@@ -310,3 +310,10 @@ article.post {
 .screenshot-50 img, .screenshot-33 img {
   margin: 0 10px 10px 0;
 }
+.appstore_dl {
+  margin:10px;
+  display:block;
+}
+.appstore_dl img {
+  height:75px;
+}

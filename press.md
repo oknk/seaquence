@@ -15,9 +15,10 @@ Release Date: March 14, 2017
 
 Seaquence, a unique musical composition app will be released the iOS App Store on March 14th, 2017. It will run on all modern iOS 8 (or newer) devices and screen sizes.
 
-<a href="{{site.baseurl}}/images/3-up.png">
-<img src="{{site.baseurl}}/images/3-up-700px.png" />
+<a href="{{site.baseurl}}/images/screenshots/3-up.png">
+<img src="{{site.baseurl}}/images/screenshots/3-up-700px.png" />
 </a>
+
 
 Seaquence is an app for iOS that enables you to compose music with collections of synthsizer creatures. Only the voices in view can be heard, resulting in organic and dynamic soundscapes as you explore and create your mix. The creatures body and tail are generated from the parameters of its synth and sequencer, which in turn modify its swimming patterns.  Visually immersive and sonically dynamic, Seaquence is a unique and fun audiovisual environment.
 
@@ -27,14 +28,14 @@ Seaquence is an app for iOS that enables you to compose music with collections o
 
 Featuring a pro-level synthesizer and timing engine controlled by a fun and direct interface. Even composers who are brand new to synthesis will be able to unlock their synesthetic creativity. For more experienced users, Seaquence features MIDI support and tempo sync, allowing the app to integrate with other apps gear.
 
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_seq.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_seq_thumb.png" />
+<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_pattern.png">
+<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_pattern_thumb.png" />
 </a>
 
 Edit your sounds with multi-touch controls including a polyphonic sequencer, chromatic scale w/octave, amplitude envelope editor, multiple waveform types, and more. With a single in-app purchase for **<span class="c_fg1">{{ site.app.price }}</span>**, all extended features of the app unlock and include delay fx and fx send, filters (hipass, bandpass, lopass, and notch) and filter attack envelope, additional voice modes, extra sequencer controls, transpose, MIDI + Clock Sync, and more.
 
-<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_env.png">
-<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_env_thumb.png" />
+<a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_envelopes.png">
+<img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_envelopes_thumb.png" />
 </a>
 
 Seaquence enables you to share your sessions with friends with a sharable link, and has an in-app browser todiscover what other people are making.

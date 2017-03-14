@@ -16,7 +16,7 @@ h3 {
 
 # Guide
 
-The experience of making music and sounds with Seaquence is designed to be discoverable and fun, but this guide outlines all the features allowing you to to get the most out of it. It goes over the basics and exposes some hidden tricks!
+This guide outlines Seaquence's features allowing you to to get the most out of it. It goes over the basics and exposes some hidden tricks!
 
 More questions? [Contact us](/seaquence/contact).
 
