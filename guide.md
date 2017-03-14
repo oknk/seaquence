@@ -5,6 +5,7 @@ permalink: /guide
 order: 2
 class: c_bg2
 ---
+{::options parse_block_html="true" /}
 
 <style>
 
@@ -20,7 +21,75 @@ This guide outlines Seaquence's features allowing you to to get the most out of 
 
 More questions? [Contact us](/seaquence/contact).
 
-<a name="quick"></a>
+<style>
+.toc {
+  padding:20px;
+}
+.toc ul {
+  margin:0; padding:0;
+}
+li {
+  list-style-type: none; padding:0;
+}
+</style>
+
+## Table of Contents
+
+- [Mixer](#mixer)
+  - Creatures
+  - Play / Pause
+  - Add
+  - Globals
+  - Save, Share & Browse
+- [Editor](#editor)
+  - [Sequencer](#sequencer)
+    - Mixer
+    - Close Editor
+    - Add / Clone
+    - Solo
+    - Dna Sequencer
+    - Sequencer Timing
+    - Swing
+    - Glide
+    - Voice Modes
+  - [Tones](#tones)
+    - Scale
+    - Octave
+  - [Envelopes](#envelopes)
+    - Waveform
+    - Adsr Amplitude Envelope
+    - Note Length
+    - Filter Attack Envelope
+    - Filter
+    - Filter Mode
+  - [Globals](#globals)
+    - Transpose
+    - Volume
+    - Tempo
+    - Voice Fx-send
+    - Delay Time
+    - Delay Time (quantized)
+    - Delay Feedback
+- [Save & Share](#saveshare)
+  - Active Session
+  - New Session
+  - Close Editor
+  - Explore
+  - Save
+  - Saved Session
+  - Share / Get Link
+- [Explore](#explores)
+  - Reload
+  - Shared Session
+  - Download
+  - Next / Prev
+  - Exit
+- [MIDI](#midi)
+  - Midi In
+  - Midi Out
+  - Enable / Disable
+
+<a name="mixer"></a>
 
 # MIXER
 
@@ -45,6 +114,7 @@ Where you find controls that affect the entire mix. Tonality, Tempo/BPM, Delay F
 Save your sessions, share your sessions by creating a link, and explore online sessions that people have shared.
 
 
+<a name="editor"></a>
 
 # VOICE EDITOR
 
@@ -59,13 +129,10 @@ From left to right, they are
   3. ENVELOPES
   4. GLOBAL
 
-
-
 When tapping a creature for the first time, it will open to the SEQUENCER tab.
 
 
-
-
+<a name="sequencer"></a>
 
 # SEQUENCER
 
@@ -104,7 +171,7 @@ There are three voice modes:
 
 
 
-
+<a name="tones"></a>
 
 # TONES
 
@@ -117,7 +184,7 @@ Select which tones in the 12-note chromatic scale the sequencer are active.
 Transposes the scale up or down by an octave.
 
 
-
+<a name="envelopes"></a>
 
 # ENVELOPES
 
@@ -153,6 +220,7 @@ TAP to toggle through the four filter modes.
   4. Notch (Band Reject)
 
 
+<a name="globals"></a>
 
 # GLOBALS
 
@@ -185,7 +253,7 @@ To exit any editor, tap on the MIXER area or tap the close editor icon on the to
 
 
 
-
+<a name="saveshare"></a>
 
 # SAVE & SHARE
 
@@ -216,7 +284,7 @@ Tap the cloud to get a public and sharable link to your session.
 
 
 
-
+<a name="explore"></a>
 
 # EXPLORE
 
@@ -240,7 +308,7 @@ Next page. When navigating, you'll get a previous page icon on the right to go b
 Exit the galaxy view.
 
 
-
+<a name="midi"></a>
 
 # MIDI
 
@@ -254,7 +322,7 @@ Seaquence supports MIDI i/o! You can send/receive notes and messages to/from any
 ### B MIDI OUT CHANNEL
 1 thru 16.
 
-Enable MIDI in the App Preferences.
+### ENABLE / DISABLE MIDI
 
 ![]({{site.baseurl}}/images/guide/guide-midi-prefs.png)
 
@@ -263,7 +331,6 @@ You can also set various methods of MIDI CLOCK sync, allows you to sync Seaquenc
   1. Off
   2. Send (Master)
   3. Sync to External (Slave)
-
 
 # Congratulations!
 
