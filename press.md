@@ -32,7 +32,7 @@ Featuring a pro-level synthesizer and timing engine controlled by a fun and dire
 <img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_pattern_thumb.png" />
 </a>
 
-Edit your sounds with multi-touch controls including a polyphonic sequencer, chromatic scale w/octave, amplitude envelope editor, multiple waveform types, and more. With a single in-app purchase for **<span class="c_fg1">{{ site.app.price }}</span>**, all extended features of the app unlock and include delay fx and fx send, filters (hipass, bandpass, lopass, and notch) and filter attack envelope, additional voice modes, extra sequencer controls, transpose, MIDI + Clock Sync, and more.
+Edit your sounds with multi-touch controls including a polyphonic sequencer, chromatic scale w/octave, amplitude envelope editor, multiple waveform types, and more. With a single in-app purchase for the introductory price of **<span class="c_fg1">{{ site.app.price }}</span>**, all extended features of the app unlock and include delay fx and fx send, filters (hipass, bandpass, lopass, and notch) and filter attack envelope, additional voice modes, extra sequencer controls, transpose, MIDI + Clock Sync, and more.
 
 <a href="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_envelopes.png">
 <img src="{{site.baseurl}}/images/screenshots/screenshot_iPad12.9_envelopes_thumb.png" />

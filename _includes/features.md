@@ -16,7 +16,7 @@
   - Social sharing features — Get a link to share your creations to friends
   - Parent links are maintained — trace back the history of a composition, see who remixed your creations
 
-### A single in-app purchase for **<span class="c_fg1">{{ site.app.price }}</span>** unlocks the full app and includes:
+### A single in-app purchase for the introductory price of **<span class="c_fg1">{{ site.app.price }}</span>** unlocks the full app and includes:
 
   - State-variable filter with hi-pass, band-pass, lo-pass, and notch modes
   - Filter attack envelope with resonance Q and curve editor.
