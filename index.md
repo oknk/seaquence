@@ -6,10 +6,6 @@ order: -1
 ---
 {::options parse_block_html="true" /}
 
-<h1 style="text-align:center">Make living music!</h1>
-
-<section>
-
 <center>
 <a href="https://itunes.apple.com/us/app/seaquence/id1106270489" class="appstore_dl">
 <img src="{{site.baseurl}}/images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
@@ -24,7 +20,6 @@ Seaquence is a music app for iOS that enables you to compose sounds with collect
 
 Seaquence has a richly featured synth and timing engine controlled by a fun and direct interface. You can share your sessions with friends, and discover what other people are making to get inspired. Even composers who are brand new to music and synthesis will be able to unlock their synesthetic creativity.
 
-</section>
 
 <section class="c_bg3">
 # Announce List
