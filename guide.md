@@ -312,9 +312,9 @@ Exit the galaxy view.
 
 # MIDI
 
-![]({{site.baseurl}}/images/guide/guide-midi.png)
-
 Seaquence supports MIDI i/o! You can send/receive notes and messages to/from any creature on MIDI channels 1-16, and send/receive global clock-sync messages.
+
+![]({{site.baseurl}}/images/guide/guide-midi.png)
 
 ### A. MIDI IN CHANNEL
 1 thru 16.
@@ -323,6 +323,8 @@ Seaquence supports MIDI i/o! You can send/receive notes and messages to/from any
 1 thru 16.
 
 ### ENABLE / DISABLE MIDI
+
+MIDI send/receive and clock-sync can be enabled in the Seaquence section of the iOS Settings app.
 
 ![]({{site.baseurl}}/images/guide/guide-midi-prefs.png)
 
