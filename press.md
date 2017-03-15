@@ -90,5 +90,9 @@ The Seaquence App is created by Okaynokay (Ryan Alexander and Gabriel Dunne), ba
 
 - March 14 2017 [Seaquence lets you make music as animated ocean creatures](http://cdm.link/2017/03/seaquence-lets-make-music-animated-ocean-creatures/) -- CDM
 - March 14 2017 [Seaquence – Growin’ groove in a Petri dish](http://www.creativeapplications.net/cinder/seaquence-growin-groove-in-a-petri-dish/) -- Creative Applications
-
+- March 15 2017 [New "Living" Sequencer & Synthesizer for iOS](http://www.matrixsynth.com/2017/03/seaquence-new-living-sequencer.html) -- Matrixsynth
+- March 15 2015 [New iOS App, Seaquence, Pairs Serious Synthesis With A Fun Interface](http://www.synthtopia.com/content/2017/03/14/new-ios-app-seaquence-pairs-serious-synthesis-with-a-fun-interface/) -- Synthtopia
+- March 15 2017 [Seaquence is a colorful aquarium for making music on iOS](http://www.factmag.com/2017/03/15/seaquence-ios-sequencer-app/)
+- March 15 2017 [Explore an ocean of sound on your iPhone or iPad with Seaquence](http://www.musicradar.com/news/explore-an-ocean-of-sound-on-your-iphone-or-ipad-with-seaquence) -- Music Radar
+- March 15 2017 [Seaquence by Okaynokay](https://discchord.com/appnews/2017/03/15/seaquence-by-okaynokay) -- Discchord
 
