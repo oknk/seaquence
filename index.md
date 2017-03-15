@@ -7,12 +7,12 @@ order: -1
 {::options parse_block_html="true" /}
 
 <center>
-<a href="https://itunes.apple.com/us/app/seaquence/id1106270489" class="appstore_dl">
+<a href="{{ site.app.storelink }}" class="appstore_dl">
 <img src="{{site.baseurl}}/images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
 </a>
 </center>
 
-<a href="https://itunes.apple.com/us/app/seaquence/id1106270489">
+<a href="{{ site.app.storelink }}">
 <img src="{{site.baseurl}}/images/screenshots/3-up-700px.png" />
 </a>
 
