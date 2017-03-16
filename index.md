@@ -7,12 +7,12 @@ order: -1
 {::options parse_block_html="true" /}
 
 <center>
-<a href="{{ site.app.storelink }}" class="appstore_dl">
+<a href="{{ site.app.storeurl }}" class="appstore_dl">
 <img src="{{site.baseurl}}/images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
 </a>
 </center>
 
-<a href="{{ site.app.storelink }}">
+<a href="{{ site.app.storeurl }}">
 <img src="{{site.baseurl}}/images/screenshots/3-up-700px.png" />
 </a>
 

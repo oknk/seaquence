@@ -8,20 +8,9 @@ class: c_bg2
 {::options parse_block_html="true" /}
 
 <style>
-
 h3 {
   color: #D1518A;
 }
-
-</style>
-
-# Guide
-
-This guide outlines Seaquence's features allowing you to to get the most out of it. It goes over the basics and exposes some hidden tricks!
-
-More questions? [Contact us](/seaquence/contact).
-
-<style>
 .toc {
   padding:20px;
 }
@@ -32,6 +21,15 @@ li {
   list-style-type: none; padding:0;
 }
 </style>
+
+# Guide
+
+This guide outlines Seaquence's features allowing you to to get the most out of it.
+It goes over the basics and exposes some hidden tricks!
+
+More questions? [Contact us](/seaquence/contact).
+
+<section class="c_bg5">
 
 ## Table of Contents
 
@@ -88,6 +86,8 @@ li {
   - Midi In
   - Midi Out
   - Enable / Disable
+
+</section>
 
 <a name="mixer"></a>
 
@@ -312,7 +312,7 @@ Exit the galaxy view.
 
 # MIDI
 
-Seaquence supports MIDI i/o! You can send/receive notes and messages to/from any creature on MIDI channels 1-16, and send/receive global clock-sync messages.
+Seaquence supports basic MIDI i/o. You can send/receive notes and messages to/from any creature on MIDI channels 1-16, and send/receive global clock-sync messages.
 
 ![]({{site.baseurl}}/images/guide/guide-midi.png)
 
@@ -328,7 +328,7 @@ MIDI send/receive and clock-sync can be enabled in the Seaquence section of the 
 
 ![]({{site.baseurl}}/images/guide/guide-midi-prefs.png)
 
-You can also set various methods of MIDI CLOCK sync, allows you to sync Seaquence to external gear or apps.
+You can also set various methods of MIDI CLOCK sync, allows you to sync Seaquence to external hardware or apps.
 
   1. Off
   2. Send (Master)

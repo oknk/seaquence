@@ -10,4 +10,5 @@ Gray Area Foundation for the Arts, Inc. is a 501(c)3 Non-Profit Organization sup
 
 [grayarea.org](http://grayarea.org)
 
-![]({{site.baseurl}}/images/logos/grayarea.svg)
+[![]({{site.baseurl}}/images/logos/grayarea.svg)](http://grayarea.org)
+
