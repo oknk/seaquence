@@ -87,6 +87,7 @@ The Seaquence App is created by Okaynokay (Ryan Alexander and Gabriel Dunne), ba
 {% include madewith.md %}
 
 # Press Articles
+<a name="articles"></a>
 
 <section style="font-size:0.75em;">
 
