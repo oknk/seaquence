@@ -317,3 +317,9 @@ article.post {
 .appstore_dl img {
   height:75px;
 }
+div#disqus_thread {
+    max-width: 700px;
+    margin: 0 auto;
+    padding-top: 2em;
+}
+

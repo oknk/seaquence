@@ -2,7 +2,6 @@
 layout: post
 title:  "Seaquence is now available on the iOS App Store"
 date:   2017-03-14
-comments: true
 ---
 
 <center>
