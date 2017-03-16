@@ -98,5 +98,6 @@ The Seaquence App is created by Okaynokay (Ryan Alexander and Gabriel Dunne), ba
 - [Seaquence is a colorful aquarium for making music on iOS](http://www.factmag.com/2017/03/15/seaquence-ios-sequencer-app/) -- *FactMag, March 15 2017*
 - [Explore an ocean of sound on your iPhone or iPad with Seaquence](http://www.musicradar.com/news/explore-an-ocean-of-sound-on-your-iphone-or-ipad-with-seaquence) -- *Music Radar, March 15 2017*
 - [Seaquence by Okaynokay](https://discchord.com/appnews/2017/03/15/seaquence-by-okaynokay) -- *Discchord, March 15 2017*
+- [Seaquence Una App Para Crear Música Con Criaturas Marinas](http://bigfenomeno.com/2017/03/seaquence-app-musica-criaturas-marinas/) -- *Big Fenomeno, March 16 2017*
 
 </section>
