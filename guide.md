@@ -17,15 +17,12 @@ h3 {
 .toc ul {
   margin:0; padding:0;
 }
-li {
+ul li {
   list-style-type: none; padding:0;
 }
 </style>
 
 # Guide
-
-This guide outlines Seaquence's features allowing you to to get the most out of it.
-It goes over the basics and exposes some hidden tricks!
 
 More questions? [Contact us](/seaquence/contact).
 
@@ -280,7 +277,7 @@ Save the current session. When tapped, you will be prompted to enter a Name and 
 A locally saved session. Tap to load.
 
 ### G. SHARE / GET LINK
-Tap the cloud to get a public and sharable link to your session.
+Tap the cloud to get a public and sharable link, and it will appears in the galaxy.
 
 
 
@@ -328,7 +325,7 @@ MIDI send/receive and clock-sync can be enabled in the Seaquence section of the 
 
 ![]({{site.baseurl}}/images/guide/guide-midi-prefs.png)
 
-You can also set various methods of MIDI CLOCK sync, allows you to sync Seaquence to external hardware or apps.
+You can also set various methods of MIDI CLOCK sync.
 
   1. Off
   2. Send (Master)
@@ -337,6 +334,8 @@ You can also set various methods of MIDI CLOCK sync, allows you to sync Seaquenc
 # Congratulations!
 
 You made it through the Seaquence Guide! We hope you enjoy many hours making and sharing your own music and sounds, as well as exploring what other people create.
+
+This guide will be updated with new features as they become available.
 
 <!--
 
