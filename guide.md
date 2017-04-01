@@ -75,6 +75,13 @@ midi:
     - "✓"
     - "✓"
     - 0-127
+  sustain:
+    - Sustain
+    - Adjust the amount of sustain<br/>(0% - 100%)
+    - 76
+    - "✓"
+    - "✓"
+    - 0-127
   release:
     - Release
     - Adjust the amount of release<br/>(0 - 2secs)
@@ -91,11 +98,43 @@ midi:
     - 0 (OFF) 127 (ON)
   glide:
     - Glide
-    - Glide (Portomento) time
+    - Glide (Portomento) time<br />(0 -2secs)
     - 65
     - "✓"
     - "✓"
     - 0-127
+
+midiimp:
+  notenumber:
+    - Note Number
+    - "✓"
+    - "✓"
+    - 0-127
+  velocity:
+    - Note Velocity
+    - "✓"
+    - "✓"
+    - 0-127
+  controlchange:
+    - Control Change
+    - "✓"
+    - "✓"
+    - 1, 7, 10, 65, 69, 71, 72, 73, 75, 76, 107, 120, 123
+  pitchbend:
+    - Pitch Bend
+    -
+    - "✓"
+    - Programmable 0 +/- 24 Semitones
+  clock:
+    - System Real Time Clock
+    - "✓"
+    - "✓"
+    -
+  system:
+    - Start/Stop
+    - "✓"
+    - "✓"
+    -
 
 ---
 {::options parse_block_html="true" /}
@@ -403,7 +442,7 @@ Exit the galaxy view.
 
 # MIDI
 
-Seaquence supports basic MIDI i/o. You can send/receive notes and messages to/from any creature on MIDI channels 1-16, and send/receive global clock-sync messages.
+Seaquence sends and receive notes and control-change MIDI messages to/from any creature on any MIDI channel, turning Seaquence into a dynamic multi-voice sequencer that can be used with external gear and other apps.
 
 ![]({{site.baseurl}}/images/guide/guide-midi.png)
 
@@ -425,11 +464,52 @@ You can also set various methods of MIDI CLOCK sync.
   2. Send (Master)
   3. Sync to External (Slave)
 
-## MIDI CONTROL CHANGE (CC) MESSAGES
+### MIDI CONTROL CHANGE (CC) MESSAGES
 
 {::options parse_block_html="true" /}
 
-{%include midi.md %}
+<table cellspacing="0" cellpadding="0"><tbody>
+  <tr class="seaqfont">
+    <th>Control</th>
+    <th>Function</th>
+    <th>CC</th>
+    <th>Out</th>
+    <th>In</th>
+    <th style=";min-width:200px;">Value/Range</th>
+  </tr>
+{% for midi in page.midi %}
+  <tr>
+      <td>{{ midi[1][0] }}</td>
+      <td>{{ midi[1][1] }}</td>
+      <td>{{ midi[1][2] }}</td>
+      <td style="text-align:center;">{{ midi[1][3] }}</td>
+      <td style="text-align:center;">{{ midi[1][4] }}</td>
+      <td>{{ midi[1][5] }}</td>
+   </tr>
+{% endfor %}
+</tbody></table>
+
+### MIDI IMPLEMENTATION
+
+<table cellspacing="0" cellpadding="0"><tbody>
+  <tr class="seaqfont">
+    <th>Function</th>
+    <th>Out</th>
+    <th>In</th>
+    <th style=";min-width:200px;">Remarks</th>
+  </tr>
+{% for midi in page.midiimp %}
+  <tr>
+      <td>{{ midi[1][0] }}</td>
+      <td>{{ midi[1][1] }}</td>
+      <td>{{ midi[1][2] }}</td>
+      <td>{{ midi[1][3] }}</td>
+   </tr>
+{% endfor %}
+</tbody></table>
+
+
+
 
 # Congratulations!
 
