@@ -4,6 +4,99 @@ title: Guide
 permalink: /guide
 order: 2
 class: c_bg2
+midi:
+  panic:
+    - All Notes Off<br />(Panic)
+    - MIDI Panic Message<br />(Shuts off all all hung MIDI notes)
+    - 120
+    -
+    - "✓"
+    - Any
+  reset:
+    - Reset Voice
+    - Resets the voice, shuts off all active notes.
+    - 123
+    -
+    - "✓"
+    - Any
+  mod:
+    - Mod Wheel
+    - Voice Modulation performance control
+    - 1
+    -
+    - "✓"
+    - 0-127
+  pbup:
+    - Pitch Bend Amount
+    - Pitch Wheel performance control<br />(Default = +/- 12 semitones)
+    - 107
+    -
+    - "✓"
+    - 0 (OFF) to<br/>127 (24 SEMITONES)
+  volume:
+    - Volume
+    - Voice volume<br />(proximity to center of view)
+    - 7
+    - "✓"
+    -
+    - 0-127
+  panning:
+    - Panning
+    - Voice panning position
+    - 10
+    - "✓"
+    -
+    - 0 (Left) to 127 (Right)
+  filtercut:
+    - Filter Cutoff
+    - Adjust the filter cutoff frequency
+    - 74
+    - "✓"
+    - "✓"
+    - 0-127
+  filterres:
+    - Filter Resonance
+    - Adjust the amount of filter resonsance (Q)
+    - 71
+    - "✓"
+    - "✓"
+    - 0-127
+  attack:
+    - Attack
+    - Adjust the amount of attack<br/>(0 - 2secs)
+    - 73
+    - "✓"
+    - "✓"
+    - 0-127
+  decay:
+    - Decay
+    - Adjust the amount of decay<br/>(0 - 2secs)
+    - 75
+    - "✓"
+    - "✓"
+    - 0-127
+  release:
+    - Release
+    - Adjust the amount of release<br/>(0 - 2secs)
+    - 72
+    - "✓"
+    - "✓"
+    - 0-127
+  hold:
+    - Note Hold
+    - Set Hold on/off. When active release phase will not be triggered.
+    - 69
+    - "✓"
+    - "✓"
+    - 0 (OFF) 127 (ON)
+  glide:
+    - Glide
+    - Glide (Portomento) time
+    - 65
+    - "✓"
+    - "✓"
+    - 0-127
+
 ---
 {::options parse_block_html="true" /}
 
@@ -83,6 +176,7 @@ More questions? [Contact us](/seaquence/contact).
   - Midi In
   - Midi Out
   - Enable / Disable
+  - Control Change (CC) Messages
 
 </section>
 
@@ -331,87 +425,15 @@ You can also set various methods of MIDI CLOCK sync.
   2. Send (Master)
   3. Sync to External (Slave)
 
+## MIDI CONTROL CHANGE (CC) MESSAGES
+
+{::options parse_block_html="true" /}
+
+{%include midi.md %}
+
 # Congratulations!
 
 You made it through the Seaquence Guide! We hope you enjoy many hours making and sharing your own music and sounds, as well as exploring what other people create.
 
 This guide will be updated with new features as they become available.
 
-<!--
-
-
-<br />
-<br />
-
-<a name="full"></a>
-
-# Manual
-
-Detailed Manual Coming soon!
-
-## Table of Contents
-
-<section>
-
-<ul class="manual">
-
-<li>1.  &nbsp;&nbsp;&nbsp; Overview</li>
-<br />
-
-<li>2.  &nbsp;&nbsp;&nbsp; Layout</li>
-<li>2.1 &nbsp; The Sea</li>
-<li>2.2 &nbsp; Add Voice</li>
-<li>2.3 &nbsp; Remove Voice</li>
-<br />
-
-<li>3.  &nbsp;&nbsp;&nbsp; Session Browser</li>
-<li>3.1 &nbsp; Create new Session</li>
-<li>3.2 &nbsp; Save Preset</li>
-<li>3.3 &nbsp; Share Preset</li>
-<br />
-
-<li>4.  &nbsp;&nbsp;&nbsp; Voice Editor</li>
-<li>4.1 &nbsp; Clone Voice</li>
-<br />
-
-<li>5.  &nbsp;&nbsp;&nbsp; Scale Editor</li>
-<li>5.1 &nbsp; Scale</li>
-<li>5.2 &nbsp; Octave</li>
-<br />
-
-<li>6.  &nbsp;&nbsp;&nbsp; Sequence Editor</li>
-<li>6.1 &nbsp; Sequencer</li>
-<li>6.2 &nbsp; Note Step</li>
-<li>6.3 &nbsp; Swing/Shuffle</li>
-<li>6.4 &nbsp; Glide/Portamento</li>
-<li>6.5 &nbsp; Voice Modes</li>
-<br />
-
-<li>7.  &nbsp;&nbsp;&nbsp; Envelope Editor</li>
-<li>7.1 &nbsp; Waveform Type</li>
-<li>7.2 &nbsp; Amplitude Envelope</li>
-<li>7.3 &nbsp; Note Length</li>
-<li>7.4 &nbsp; Filter Envelope</li>
-<li>7.5 &nbsp; Filter Cut/Res</li>
-<li>7.6 &nbsp; Filter Type</li>
-<br />
-
-<li>8.  &nbsp;&nbsp;&nbsp; Master Editor</li>
-<li>8.1 &nbsp; Transpose</li>
-<li>8.2 &nbsp; Volume</li>
-<li>8.3 &nbsp; Tempo</li>
-<li>8.4 &nbsp; Delay FX</li>
-<br />
-
-<li>9.  &nbsp;&nbsp;&nbsp; MIDI</li>
-<li>9.1 &nbsp; MIDI Notes Out</li>
-<li>9.2 &nbsp; MIDI Clock In/Out</li>
-
-</section>
-
-<br />
-<br />
-<br />
-
-
--->
