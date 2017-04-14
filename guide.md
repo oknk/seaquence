@@ -464,6 +464,8 @@ You can also set various methods of MIDI CLOCK sync.
   2. Send (Master)
   3. Sync to External (Slave)
 
+<!--
+
 ### MIDI CONTROL CHANGE (CC) MESSAGES
 
 {::options parse_block_html="true" /}
@@ -508,6 +510,7 @@ You can also set various methods of MIDI CLOCK sync.
 {% endfor %}
 </tbody></table>
 
+-->
 
 
 
