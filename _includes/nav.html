@@ -1,9 +1,24 @@
-<ul id="nav">
- {% assign sorted_pages = site.pages | sort:"order" %}
-  {% for page in sorted_pages %}
-    {% if page.title and page.order > 0 %}
-    <li><a class="page-link button" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  <li><a class="page-link button" href="{{site.baseurl}}/blog">Blog</a></li>
-</ul>
+<div id="nav">
+
+  <div class="social-links">
+    Connect with Seaquence on<br/>
+    <a href="https://twitter.com/seaquence">Twitter</a>, <a href="https://www.instagram.com/seaquence.app/">Instagram</a> and <a href="https://www.facebook.com/SeaquenceApp/">Facebook</a>.
+  </div>
+
+  <ul class="nav-pages">
+   {% assign sorted_pages = site.pages | sort:"order" %}
+    {% for page in sorted_pages %}
+      {% if page.title and page.order > 0 %}
+      <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+    <li><a href="{{site.baseurl}}/blog">Blog</a></li>
+  </ul>
+
+<!--   <ul class="social-links">
+    <li><a href=""><img src="{{site.baseurl}}/images/social-icon-twitter.svg" /></a></li>
+    <li><a href=""><img src="{{site.baseurl}}/images/social-icon-ig.svg" /></a></li>
+    <li><a href=""><img src="{{site.baseurl}}/images/social-icon-fb.svg" /></a></li>
+  </ul> -->
+
+</div>

@@ -2,32 +2,17 @@
 layout: default
 ---
 
-<header>
-
-  <div class="headvid">
-  <video class="video" autoplay loop muted>
-      <source src="{{site.baseurl}}/images/video/header.webm" type='video/webm; codecs="vp8, vorbis"' />
-      <source src="{{site.baseurl}}/images/video/header.mp4" type='video/mp4; codecs="h264"' />
-      <source src="{{site.baseurl}}/images/video/header.ogv" type='video/ogg; codecs="theora, vorbis"' />
-      <img src="{{site.baseurl}}/images/screenshot_HD1080_4x_00008_c3.jpg" />
-  </video>
-  </div>
-
-  <a href="{{site.baseurl}}/">
-  <img src='{{site.baseurl}}/images/header.svg' class='header'>
-  </a>
-
-</header>
+{% include header.html %}
 
 <div class="root container">
-
-  {% include nav.html %}
 
   <div class="container">
     <div class="box">
       {{ content }}
     </div>
   </div>
+
+  {% include nav.html %}
 
   {% include footer.html %}
 

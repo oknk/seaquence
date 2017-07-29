@@ -1,5 +1,5 @@
 body {
-  background: #181818;
+  background: #26313C;
   color: #bbb;
 }
 
@@ -10,7 +10,7 @@ a:active {
   outline: none
 }
 a:hover  {
-  color: #C8EBFA !important;
+  color: #999;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -24,11 +24,11 @@ h1, h2, h3, h4, h5, h6 {
 .button,
 .button-disabled,
 .PageNavigation a {
-  background:#101010;
+  /*background:#101010;*/
 }
 
 .button:hover {
-  background:#464C50;
+  /*background:#464C50;*/
 }
 
 .button-disabled {

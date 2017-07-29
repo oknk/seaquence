@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="188px" viewBox="0 0 125 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="oknk-logo-dark-white" transform="translate(-65.000000, -33.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="Group" transform="translate(67.000000, 35.000000)">
+                <path d="M119.662379,118.765432 L98.7225302,97.817037" id="Stroke-1"></path>
+                <path d="M55.7378509,127 L0.945398113,127" id="Stroke-3"></path>
+                <path d="M119.662379,63 L64.8699264,63" id="Stroke-5"></path>
+                <path d="M0.945398113,182.716049 L49.2814736,134.360247" id="Stroke-7"></path>
+                <path d="M55.7378509,63 L0.945398113,63" id="Stroke-9"></path>
+                <polyline id="Stroke-11" points="0.945398113 118.765432 55.7378509 118.765432 55.7378509 73.0864198"></polyline>
+                <path d="M119.662379,118.765432 L92.2661528,91.3580247" id="Stroke-13"></path>
+                <path d="M55.7378509,182.716049 L28.3416245,155.308642" id="Stroke-15"></path>
+                <path d="M62.1944566,121.441994 L113.20623,70.4094012" id="Stroke-18"></path>
+                <polygon id="Stroke-19" points="64.8696981 54.8150432 119.662151 54.8150432 119.662151 0.000228395062 64.8696981 0.000228395062"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

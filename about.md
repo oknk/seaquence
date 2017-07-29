@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about
-order: 1
+order: -1
 class: c_bg1
 ---
 {::options parse_block_html="true" /}
