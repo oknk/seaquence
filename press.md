@@ -13,7 +13,7 @@ class: c_bg3
 
 <!-- {%include presskit_dl.html %} -->
 <div>
-## PRESS KIT
+## press kit
   <p style="text-align:center;">
     Download press materials like logos, screen grabs, and more.
   </p>
@@ -23,7 +23,7 @@ class: c_bg3
 </div>
 
 <div>
-## CONTACT
+## contact
   <p style="text-align:center;">
     Send us a message or ask a question.
   </p>
@@ -34,13 +34,4 @@ class: c_bg3
 
 </div>
 
-
-
-## MAILING LIST
-
-Sign up to get email updates.
-
-{%include mailinglist.html %}
-
-
-<br /><br />
+<br />

@@ -6,8 +6,29 @@ order: 4
 class: c_bg4
 ---
 
-# Contact
+# contact
 
+<div class="emailform">
+  <h2 style="padding-top:1em;">Send us a message</h2>
+<form method="POST" action="http://formspree.io/ping@seaquence.com">
+  <input type="text" name="name" placeholder="Your name">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea><br/>
+  <center>
+  <button type="submit" class="button">SEND</button>
+  </center>
+</form>
+</div>
+
+
+<div class="emailform">
+<h2 style="padding-top:1em;">Sign up for our mailing list</h2>
+
+{%include mailinglist.html %}
+
+</div>
+
+<!--
 ## Twitter
 {%include twitter.html %}
 
@@ -16,3 +37,4 @@ class: c_bg4
 
 ## Announce List
 {%include mailinglist.html %}
+ -->

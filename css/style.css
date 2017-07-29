@@ -121,8 +121,8 @@ header.post-header {
   text-decoration:none;
 }
 .download a:hover {
-  border-color:#333;
-  color:#333;
+  border-color:#999 !important;
+  color:#999;
 }
 .bibliography ul {
   list-style-type:none;
@@ -255,13 +255,20 @@ article.post {
     width:60%;
     margin:0 3em;
   }
-.button, .button-disabled {
+input[type="button"], .button, .button-disabled {
   font-family: "SeaqFont";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size:1em;
+  color:#9ff;
   display: inline-block;
   border-radius: 0.5em;
   padding: 1em;
+  border:2px solid #9ff;
+  padding:0.5em 1em;
+  border-radius:0.3em;
+  text-decoration:none;
+  background:none;
   /*text-decoration: none;*/
 }
 .PageNavigation {
@@ -373,3 +380,32 @@ div#disqus_thread {
     padding-top: 2em;
 }
 
+form {
+padding:0;
+margin:0;
+  }
+.emailform {
+  max-width:500px;
+  margin:1em auto;
+  padding:1em;
+  /*background:#2F3C4A;*/
+}
+.emailform input, .emailform textarea {
+  padding: 7px 10px;
+  width:85%;
+  margin:0.5em 1em;
+  font-size: 1em;
+  background: #ddd;
+  border: 1px solid #000;
+  color: #666;
+}
+.emailform input[type="text"]{
+  margin-top:1.5em;
+}
+.emailform button {
+  margin:1em auto;
+  margin-top:0;
+}
+.emailform textarea {
+  height:5em;
+}
