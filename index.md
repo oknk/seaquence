@@ -26,18 +26,20 @@ Seaquence lets you create, modify, and share musical compositions
 
 <img src="{{site.baseurl}}/images/iphone5s_blue_3.png" style="max-width:400px;"/><br />
 <h3>
-Each planktones has a polyphonic voice and a sequencer.<br/>
-Only the closest are heard as they swim around your view.</h3><br />
+Each planktone has a voice and a sequencer.
+Only the  <br/> closest are heard as they swim around your view, <br />
+creating a layered and non-linear composition.</h3><br />
 <br />
 
 <img src="{{site.baseurl}}/images/iphone5s_blue.png" style="max-width:400px;"/><br />
-<h3>Seaquence's synth you to make a range of music and<br/> sounds ranging from ambient drone to intricate layered rhythms.</h3><br />
+<h3>Seaquence's interface allows you to create a range of musical <br/>
+  and sonic characteristics, ranging from ambient drone<br/> to intricately layered rhythms and transients.</h3><br />
 
 <img src="{{site.baseurl}}/images/iphone5s_blue_4.png" style="max-width:400px;"/><br />
-<h3>Save your sessions, and share them with a link.</h3><br />
+<h3>Save your sessions. Post and share them.</h3><br />
 
 <img src="{{site.baseurl}}/images/iphone5s_blue_5.png" style="max-width:400px;"/><br />
-<h3>Listen what other people have shared to get inspired.</h3><br />
+<h3>Explore the Seaquence galaxy to listen what others<br /> have shared to get inspired.</h3><br />
 
 <br />
 
@@ -49,15 +51,14 @@ Only the closest are heard as they swim around your view.</h3><br />
 
 </center>
 
-<h2>app features</h2>
+<h2>feature list</h2>
 
 {%include features.md %}
 
 <img src="{{site.baseurl}}/images/screenshot_iPhone5__persp.png" />
 
-<h2>history</h2>
-
-<h3>about seaquence</h3>
+<section>
+## about seaquence
 
 {%include history.md %}
 
@@ -66,7 +67,17 @@ Only the closest are heard as they swim around your view.</h3><br />
 <div class="download">
   <a href="{{site.app.storeurl}}"><img style="height:1em;margin-right:0.5em;" src="{{site.baseurl}}/images/apple.svg">Download App</a>
 </div>
+</section>
 
+<br /><br/>
+
+<section>
+### made with
+
+{% include madewith.md %}
+</section>
+
+<section>
 
 <div class="emailform">
 <h2 style="padding-top:1em;">Sign up for our mailing list</h2>
@@ -74,3 +85,4 @@ Only the closest are heard as they swim around your view.</h3><br />
 {%include mailinglist.html %}
 
 </div>
+</section>

@@ -152,15 +152,25 @@ h3 {
 ul li {
   list-style-type: none; padding:0;
 }
+
+.tabnames {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding:0;
+}
+.tabnames li {
+  display:inline-block;
+  margin: auto;
+  padding:0;
+}
 </style>
 
-# Guide
+# guide
 
-More questions? [Contact us](/seaquence/contact).
+Questions? [Contact us](/seaquence/contact).
 
-<section class="c_bg5">
-
-## Table of Contents
+<section class="guide">
 
 - [Mixer](#mixer)
   - Creatures
@@ -179,7 +189,7 @@ More questions? [Contact us](/seaquence/contact).
     - Swing
     - Glide
     - Voice Modes
-  - [Tones](#tones)
+  - [Scale](#scale)
     - Scale
     - Octave
   - [Envelopes](#envelopes)
@@ -205,7 +215,7 @@ More questions? [Contact us](/seaquence/contact).
   - Save
   - Saved Session
   - Share / Get Link
-- [Explore](#explores)
+- [Explore](#explore)
   - Reload
   - Shared Session
   - Download
@@ -252,12 +262,12 @@ When you tap on a creature, it opens the voice editor. On the bottom, there are 
 
 ![]({{site.baseurl}}/images/guide/editor-tabs.png)
 
-From left to right, they are
-
-  1. TONES
-  2. SEQUENCER
-  3. ENVELOPES
-  4. GLOBAL
+<ul class="tabnames">
+  <li>SCALE</li>
+  <li>SEQUENCER</li>
+  <li>ENVELOPES</li>
+  <li>GLOBAL</li>
+</ul>
 
 When tapping a creature for the first time, it will open to the SEQUENCER tab.
 
@@ -301,9 +311,9 @@ There are three voice modes:
 
 
 
-<a name="tones"></a>
+<a name="scale"></a>
 
-# TONES
+# SCALE
 
 ![]({{site.baseurl}}/images/guide/guide-scale.png)
 

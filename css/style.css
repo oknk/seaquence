@@ -103,19 +103,18 @@ header.post-header {
   line-height:2em;
   text-align:center;
 }
-.download {
-  font-size:0.85em;
-}
+
 .header-copy {
   font-size:0.95em;
 }
 .download {
+  font-size:1.3em;
   display:block;
 }
 .download a {
   display:inline-block;
   color:#9ff;
-  border:2px solid #9ff;
+  border:4px solid #9ff;
   padding:0.5em 1em;
   border-radius:0.3em;
   text-decoration:none;
@@ -345,12 +344,16 @@ input[type="button"], .button, .button-disabled {
 .clear {
   clear: both;
 }
+.guide li {
+padding-left: 1em;
+}
+
 .manual {
   /*padding: 0;*/
   /*margin: 0;*/
 }
 .manual ul {
-  /*padding-left: 1em;*/
+  padding-left: 1em;
   /*margin: 0;*/
 }
 .manual li {
@@ -412,5 +415,9 @@ margin:0;
 }
 
 .featurelist ul li {
-  font-size:0.85em !important;
+  font-size:0.9em !important;
+}
+
+.pd_logo, .ci_logo {
+max-width:5em;
 }
