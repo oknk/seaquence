@@ -490,17 +490,19 @@ Find the MIDI settings in the [settings](#settings) panel.
 
 ![]({{site.baseurl}}/images/guide/settings-midi.png)
 
-When MIDI is enabled, you have an option to enable or disable Seaquence's internal audio engine -- this saves
-a lot of CPU cycles.
+Enable or Disable MIDI
 
 ![]({{site.baseurl}}/images/guide/settings-audioengine.png)
 
-MIDI send/receive per MIDI device are found in the [settings](#settings) panel.
+When MIDI is enabled, you have an option to enable or disable Seaquence's internal audio engine -- this saves
+a lot of CPU cycles.
 
-![]({{site.baseurl}}/images/guide/guide-midout.png)<br />
-Set MIDI latency, and if Seaquence should set Notes, Clock, and/or Midi Control Change (CC) Messages for a specific device.
+![]({{site.baseurl}}/images/guide/guide-midout.png)
 
-![]({{site.baseurl}}/images/guide/guide-midiin.png)<br />
+Set MIDI latency, and if Seaquence should send Notes, Clock, and/or Midi Control Change (CC) Messages for a specific device. The MIDI latency slider controls the amount of time that MIDI messages are delayed before being sent to increase precision.
+
+![]({{site.baseurl}}/images/guide/guide-midiin.png)
+
 Set if Seaquence should receive Notes, Clock, and/or Midi Control Change (CC) for a specific device.
 
 ## ENABLING MIDI ON A VOICE
