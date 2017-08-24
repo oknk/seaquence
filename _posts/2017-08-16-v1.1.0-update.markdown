@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Seaquence v1.1.0 Update"
+date:   2017-08-16
+---
+
+Seaquence has been updated to v1.1.0, now available in the App Store!
+
+<center>
+<a href="{{ site.app.storeurl }}" class="appstore_dl">
+<img src="{{site.baseurl}}/images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
+</a>
+</center>
+
+What's New in Version 1.1.0
+
+  - Built-in audio AND video recording/export using Apple Replay-Kit. Export audio and video to other apps.
+  - Enhanced MIDI support: Sources/Destinations can now be selected individually.
+  - Settings are now accessible in-app! No more iOS settings panel
+  - Tweaks to compressor settings resulting in larger dynamic range when lots of voices are playing. Experience greater fidelity in complicated mixes!
+  - Faster session loading
+  - Pinch Zoom
+  - New filter control which allows you to morph between the 4 different filter types dynamically, allowing for more expressive spectral control
+  - BPM and Transpose are now included in the free download
+  - Tap Tempo on BPM
+  - Play Audio in Background (option)
+  - Max Active voices -- set how many voices can play at once (option)
+  - Showing/hide note names in sequencer (option)
+  - MIDI Enable/Disable (option)
+  - More accurate and consistent MIDI clock / note timing
+  - MIDI latency adjustment
+  - Improved IAP purchase flow and messaging
+  - Updated graphics / icons
+  - UI Tweaks
+  - Various Bug Fixes
+
+<a href="{{ site.app.storeurl }}">
+<img src="{{site.baseurl}}/images/screenshots/v1.1.0/screenshot_iPhone6p_2.3x_0.png" />
+</a>
