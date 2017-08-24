@@ -490,7 +490,7 @@ Find the MIDI settings in the [settings](#settings) panel.
 
 ![]({{site.baseurl}}/images/guide/settings-midi.png)
 
-When enabled, you have an option to enable.disable the synthesis engine -- this saves
+When MIDI is enabled, you have an option to enable or disable Seaquence's internal audio engine -- this saves
 a lot of CPU cycles.
 
 ![]({{site.baseurl}}/images/guide/settings-audioengine.png)
