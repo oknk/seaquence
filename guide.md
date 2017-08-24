@@ -179,6 +179,8 @@ Questions? [Contact us](/seaquence/contact).
   - Add
   - Globals
   - Save, Share & Browse
+  - Record Audio/Screen
+  - Settings
 - [Editor](#editor)
   - [Sequencer](#sequencer)
     - Mixer
