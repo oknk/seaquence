@@ -2,27 +2,27 @@
 layout: page
 title: About
 permalink: /about
-order: -1
+order: 3
 class: c_bg1
 ---
 {::options parse_block_html="true" /}
 
-<section class="c_bg1">
-# About Us
+<section >
+# about
 
 {%include about.md %}
 </section>
 
 
 <section>
-# History
+# history
 
 {%include history.md %}
 </section>
 
 
-<section class="c_bg3">
-# Collaborators
+<section>
+# collaborators
 
 {%include about-collaborators.md %}
 </section>
