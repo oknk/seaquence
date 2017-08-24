@@ -25,10 +25,10 @@ class: c_bg3
 <div>
 ## contact
   <p style="text-align:center;">
-    Send us a message or ask a question.
+    Send a message or ask a question.
   </p>
   <div class="download">
-  <a href="{{site.baseurl}}/contact/" >CONTACT US</a>
+  <a href="{{site.baseurl}}/contact/" >CONTACT&nbsp;US</a>
   </div>
 </div>
 

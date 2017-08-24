@@ -1,34 +1,42 @@
 
 <div class="featurelist">
 
-  - Synth engine with up to 8 simultaneous voices
-  - Up to 5 note polyphony per voice
-  - Up to 64 unique voices in a composition
+  - Polyphonic synth engine
   - Dynamic spatial mixer and stereo-panning engine
-  - A true multitouch experience, up to 11 simultaneous touch points supported.
-  - Unique swimming physics and swim behaviors — swim patterns are based on synth voice parameters
-  - Precision, sample-based clock and sequencing engine, 1 to 360 BPM
+  - Up to 5 note polyphony per voice
+  - Up to 8 voices can be heard simultaneously (user settable)
+  - Up to 64 unique voices in a composition (only the closest voices are heard)
+  - A true multitouch experience, up to 11 simultaneous touch points supported
   - Intuitive visual multitouch voice editor
+  - Unique swimming physics and swim behaviors — swim patterns are based on synth and sequencer parameters per-voice
   - 16x16 multitouch step-sequencer matrix
-  - Chromatic scale editor w/Octave controls
-  - Amplitude envelope + length (ADSR+L) with curves and "hold"
+  - Radial chromatic scale editor with octave
+  - Amplitude envelope generator + length (ADSR+L) with curves and hold
+  - Precision, sample-based clock and sequencing engine
+  - Variable tempo, supporting 1 to 360 BPM with tap-tempo.
+  - Global session transpose
   - 5 waveform shapes: Square, Saw, Tri, Sin, Noise
+  - Save your own session presets
+  - 30+ included session presets
   - Social sharing features - post and share links to sessions
-  - Parent links are maintained — trace back the history of a composition, see who remixed a session
+  - Session links are maintained — trace back the history of a composition, see who remixed a session
+  - Audio and Video recording and export using Apple ReplayKit. Share performances!
 
-## unlock all features for {{ site.app.price }}
+## unlock all features of Seaquence for {{ site.app.price }}
 
-  - State-variable filter with hi-pass, band-pass, lo-pass, and notch modes
-  - Filter attack envelope with resonance Q and curve editor
+  - Per-voice state-variable filter with morphable hi-pass, band-pass, lo-pass, and notch modes
+  - Filter attack envelope generator with resonance (Q) and curve
   - Swing/Shuffle
-  - Note step editor: 1/1 to 1/64, including triplets
-  - Global transpose
+  - Step length subdivision: 1/1 to 1/64, including triplets
   - Portamento/Glide with curve editor
-  - Additional voice modes in addition to Poly, including Monophonic and Unison
-  - Delay effect on the master bus with feedback and individual voice fx-send
+  - Additional monophonic voice modes: Sub-Oscillator tuned to a 5th and Detuned Unison
+  - Delay effect on the master channel with feedback and individual voice fx-send
   - MIDI notes i/o per voice
   - MIDI cc i/o per voice
   - MIDI clock sync
+  - Assignable MIDI notes/cc/clock in/out per MIDI device
+  - User-adjustable MIDI Latency
+  - Optionally enable/disable Audio engine when using MIDI
 
 </div>
 
@@ -38,7 +46,7 @@ You purchase directly supports our two-person studio<br/> release updates with n
 
 <br /><br />
 
-In addition, 10% of all profits go towards supporting our community
+Additionally, 10% of all profits go towards supporting our community
 <br />
 at <a href="http://grayarea.org/">Gray Area Org</a>, a non-profit arts organization in San Francisco.
 

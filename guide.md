@@ -141,7 +141,8 @@ midiimp:
 
 <style>
 h3 {
-  color: #D1518A;
+  color: #fff;
+  font-weight:bold;
 }
 .toc {
   padding:20px;
@@ -221,11 +222,19 @@ Questions? [Contact us](/seaquence/contact).
   - Download
   - Next / Prev
   - Exit
+- [Settings](#settings)
+  - Accessing the Settings Panel
+  - Show/Hide Sequencer Notes
+  - Set number of Active Voices
+  - Play in Background
 - [MIDI](#midi)
-  - Midi In
-  - Midi Out
-  - Enable / Disable
-  - Control Change (CC) Messages
+  - Enable / Disable MIDI
+  - Enable / Disable Audio Engine
+  - MIDI Out
+  - MIDI In
+  - Enable/Disable MIDI on a oice
+  - MIDI Implementation
+  - MIDI Control Change (CC) Messages
 
 </section>
 
@@ -253,6 +262,11 @@ Where you find controls that affect the entire mix. Tonality, Tempo/BPM, Delay F
 ### F. SAVE, SHARE & BROWSE
 Save your sessions, share your sessions by creating a link, and explore online sessions that people have shared.
 
+### G. RECORD
+Record audio or video. Swipe the icon to change between the modes your device supports. When the circle icon is visible, tapping will record audio. When the camera icon is active, tapping it will record the screen as a video. Note: Apple Reply Kit (for screen recording) records the audio track in mono.
+
+### H. SETTINGS
+Find app settings here.
 
 <a name="editor"></a>
 
@@ -352,13 +366,12 @@ The filter attack time and cutoff. This is an X/Y handle, left to right controls
 The second handle of the filter is also an X/Y control, left to right is resonance, or "Q", and up and down is the cutoff frequency,
 
 ### F. FILTER MODE
-TAP to toggle through the four filter modes.
+Drag in this control to morph between four filter modes.
 
-  1. Low Pass
-  2. High Pass
-  3. Band Pass
-  4. Notch (Band Reject)
-
+  - Top Left: High Pass
+  - Top Right: Notch (Band Reject)
+  - Bottom Right: Low Pass
+  - Bottom Left: Band Pass
 
 <a name="globals"></a>
 
@@ -375,7 +388,7 @@ This controls tonality of the entire sessions, transposing all creatures scales 
 Overall app volume.
 
 ### C. TEMPO
-Displayed as Beats Per Minute (BPM).
+Displayed as Beats Per Minute (BPM). Tap this control to set BPM via tap-tempo.
 
 ### D. VOICE FX-SEND
 If you access this panel when a creature is selected, this sets the amount the voice will be heard in the delay effect.
@@ -448,37 +461,81 @@ Next page. When navigating, you'll get a previous page icon on the right to go b
 Exit the galaxy view.
 
 
+<a name="settings"></a>
+
+# SETTINGS
+
+The settings panel gives you access to app settings like MIDI and Background Audio.
+
+![]({{site.baseurl}}/images/guide/world-open-settings.png)<br />
+Tap the settings gear icon on the top left to open the settings panel.
+
+![]({{site.baseurl}}/images/guide/settings-seqnotes.png)<br />
+Show or Hide note names in the sequencer.
+
+![]({{site.baseurl}}/images/guide/settings-activevoices.png)<br />
+Set the number of simultaneous active voics in the mixing dish. <br /> Only the closest are heard.
+
+![]({{site.baseurl}}/images/guide/settings-playinbg.png)
+Keeping playing audio (and MIDI) from seaquence when the app is in background.
+
+
 <a name="midi"></a>
 
 # MIDI
+
+Find the MIDI settings in the [settings](#settings) panel.
+
+![]({{site.baseurl}}/images/guide/settings-midi.png)
+
+When enabled, you have an option to enable.disable the synthesis engine -- this saves
+a lot of CPU cycles.
+
+![]({{site.baseurl}}/images/guide/settings-audioengine.png)
+
+MIDI send/receive per MIDI device are found in the [settings](#settings) panel.
+
+![]({{site.baseurl}}/images/guide/guide-midout.png)<br />
+Set MIDI latency, and if Seaquence should set Notes, Clock, and/or Midi Control Change (CC) Messages for a specific device.
+
+![]({{site.baseurl}}/images/guide/guide-midiin.png)<br />
+Set if Seaquence should receive Notes, Clock, and/or Midi Control Change (CC) for a specific device.
+
+## ENABLING MIDI ON A VOICE
 
 Seaquence sends and receive notes and control-change MIDI messages to/from any creature on any MIDI channel, turning Seaquence into a dynamic multi-voice sequencer that can be used with external gear and other apps.
 
 ![]({{site.baseurl}}/images/guide/guide-midi.png)
 
 ### A. MIDI IN CHANNEL
-1 thru 16.
+1 thru 16
 
 ### B MIDI OUT CHANNEL
-1 thru 16.
+1 thru 16
 
-### ENABLE / DISABLE MIDI
-
-MIDI send/receive and clock-sync can be enabled in the Seaquence section of the iOS Settings app.
-
-![]({{site.baseurl}}/images/guide/guide-midi-prefs.png)
-
-You can also set various methods of MIDI CLOCK sync.
-
-  1. Off
-  2. Send (Master)
-  3. Sync to External (Slave)
-
-<!--
-
-### MIDI CONTROL CHANGE (CC) MESSAGES
 
 {::options parse_block_html="true" /}
+
+### MIDI IMPLEMENTATION
+
+<table cellspacing="0" cellpadding="0"><tbody>
+  <tr class="seaqfont">
+    <th>Function</th>
+    <th>Out</th>
+    <th>In</th>
+    <th style=";min-width:200px;">Remarks</th>
+  </tr>
+{% for midi in page.midiimp %}
+  <tr>
+      <td>{{ midi[1][0] }}</td>
+      <td>{{ midi[1][1] }}</td>
+      <td>{{ midi[1][2] }}</td>
+      <td>{{ midi[1][3] }}</td>
+   </tr>
+{% endfor %}
+</tbody></table>
+
+### MIDI CONTROL CHANGE (CC) MESSAGES
 
 <table cellspacing="0" cellpadding="0"><tbody>
   <tr class="seaqfont">
@@ -501,26 +558,7 @@ You can also set various methods of MIDI CLOCK sync.
 {% endfor %}
 </tbody></table>
 
-### MIDI IMPLEMENTATION
 
-<table cellspacing="0" cellpadding="0"><tbody>
-  <tr class="seaqfont">
-    <th>Function</th>
-    <th>Out</th>
-    <th>In</th>
-    <th style=";min-width:200px;">Remarks</th>
-  </tr>
-{% for midi in page.midiimp %}
-  <tr>
-      <td>{{ midi[1][0] }}</td>
-      <td>{{ midi[1][1] }}</td>
-      <td>{{ midi[1][2] }}</td>
-      <td>{{ midi[1][3] }}</td>
-   </tr>
-{% endfor %}
-</tbody></table>
-
--->
 
 
 
@@ -528,5 +566,5 @@ You can also set various methods of MIDI CLOCK sync.
 
 You made it through the Seaquence Guide! We hope you enjoy many hours making and sharing your own music and sounds, as well as exploring what other people create.
 
-This guide will be updated with new features as they become available.
+This guide is updated with new features as they become available.
 

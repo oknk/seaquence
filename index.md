@@ -33,7 +33,7 @@ creating a layered and non-linear composition.</h3><br />
 
 <img src="{{site.baseurl}}/images/iphone5s_blue.png" style="max-width:400px;"/><br />
 <h3>Seaquence's interface allows you to create a range of musical <br/>
-  and sonic characteristics, ranging from ambient drone<br/> to intricately layered rhythms and transients.</h3><br />
+  and sonic characteristics, ranging from ambient drone<br/> to intricately layered rhythms.</h3><br />
 
 <img src="{{site.baseurl}}/images/iphone5s_blue_4.png" style="max-width:400px;"/><br />
 <h3>Save your sessions. Post and share them.</h3><br />
@@ -55,27 +55,25 @@ creating a layered and non-linear composition.</h3><br />
 
 {%include features.md %}
 
-<img src="{{site.baseurl}}/images/screenshot_iPhone5__persp.png" />
-
-<section>
-## about seaquence
-
-{%include history.md %}
-
 <br />
+<br />
+
+<!-- <section>
+## about seaquence
+{%include history.md %}
+</section> -->
 
 <div class="download">
   <a href="{{site.app.storeurl}}"><img style="height:1em;margin-right:0.5em;" src="{{site.baseurl}}/images/apple.svg">Download App</a>
 </div>
-</section>
 
-<br /><br/>
+<!-- <br /><br/> -->
 
-<section>
+<!-- <section>
 ### made with
 
 {% include madewith.md %}
-</section>
+</section> -->
 
 <section>
 
