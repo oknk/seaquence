@@ -29,7 +29,7 @@ class: c_bg1
 
 
 <section>
-# Made With
+# made with
 
 {% include madewith.md %}
 <section>
