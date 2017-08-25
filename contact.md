@@ -10,7 +10,7 @@ class: c_bg4
 
 <div class="emailform">
   <h2 style="padding-top:1em;">Send us a message</h2>
-<form method="POST" action="http://formspree.io/ping@seaquence.com">
+<form method="POST" action="http://formspree.io/ping@seaquence.org">
   <input type="text" name="name" placeholder="Your name">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea><br/>
