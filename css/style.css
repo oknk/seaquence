@@ -31,6 +31,12 @@
     /*padding-top: 0px !important;*/
     max-width:200px;
   }
+  header .header-seaq-logotype img {
+    max-width:260px !important;
+  }
+  .index-iphone {
+    max-width:300px !important;
+  }
   table {
     display:block;
   }
@@ -91,7 +97,7 @@ header .header-seaq-logo img {
 }
 header .header-seaq-logotype img {
   margin-top:1em;
-  max-width:260px;
+  max-width:400px;
 }
 header .headvid {
   /*visibility:hidden;*/
@@ -443,5 +449,5 @@ max-width:5em;
 }
 
 .index-iphone {
-  max-width:300px;
+  max-width:500px;
 }
