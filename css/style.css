@@ -40,6 +40,9 @@
   table {
     display:block;
   }
+  .press-div {
+    max-width:100% !important;
+  }
   table td {
     font-size:.65em;
     padding:3px;
@@ -450,4 +453,9 @@ max-width:5em;
 
 .index-iphone {
   max-width:500px;
+}
+
+
+.press-div {
+max-width:45%;
 }

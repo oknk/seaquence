@@ -12,17 +12,17 @@ class: c_bg3
 
 
 <!-- {%include presskit_dl.html %} -->
-<div>
+<div class="press-div">
 ## press kit
   <p style="text-align:center;">
-    Download press materials like logos, screen grabs, and more.
+    Download presskit and materials.
   </p>
   <div class="download">
-  <a href="https://www.dropbox.com/s/7gpuas46aw9pcuj/seaquence-app-presskit.zip?dl=1" >DOWNLOAD PRESS KIT</a>
+  <a href="https://www.dropbox.com/s/7gpuas46aw9pcuj/seaquence-app-presskit.zip?dl=1" >DOWNLOAD</a>
   </div>
 </div>
 
-<div>
+<div class="press-div">
 ## contact
   <p style="text-align:center;">
     Send a message or ask a question.
@@ -33,5 +33,3 @@ class: c_bg3
 </div>
 
 </div>
-
-<br />
