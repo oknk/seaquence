@@ -7,7 +7,7 @@ class: c_bg3
 ---
 {::options parse_block_html="true" /}
 
-<div style="display: flex;">
+<div style="display: flex;flex-wrap:wrap;">
 
 
 

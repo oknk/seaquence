@@ -16,23 +16,28 @@
     line-height: 1.4em !important;
   }
   .button {
-    font-size: 0.7em !important;
     padding: 0.5em !important;
     margin-bottom: 0.3em !important;
   }
   video {
     display: none;
   }
-  .root {
-    padding-top: 1em !important;
-  }
+  .root {}
   header {
     /*position: relative !important;*/
     /*max-height: 130px !important;*/
   }
   header img {
     /*padding-top: 0px !important;*/
-    /*max-height:100px;*/
+    max-width:200px;
+  }
+  table {
+    display:block;
+  }
+  table td {
+    font-size:.65em;
+    padding:3px;
+    margin:0;
   }
 }
 
@@ -61,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
   /*padding: 0 1.6em;*/
 }
 h1, h2, h3 {
-  margin-top: 1.5em;
+  margin-top: 1em;
 }
 h1 {}
 a {
@@ -80,7 +85,13 @@ header {
   width: 100%;
   text-align: center;
 }
-header img {
+header .header-seaq-logo img {
+  margin-top:2em;
+  max-width:120px;
+}
+header .header-seaq-logotype img {
+  margin-top:1em;
+  max-width:260px;
 }
 header .headvid {
   /*visibility:hidden;*/
@@ -127,7 +138,7 @@ header.post-header {
   list-style-type:none;
   padding:0;
 }
-p, table {
+p {
   max-width: 650px;
   margin: 1em auto;
   padding: 0 20px;
@@ -135,9 +146,10 @@ p, table {
 }
 table {
   border-collapse: collapse;
-  width:100%;
   padding:0;
-  min-width:200px;
+  margin:1em auto;
+}
+tbody {
 }
 th {
   font-size:0.85em;
@@ -150,10 +162,12 @@ td {
   line-height:1.5em;
   padding:5px 10px;
   border:3px solid #333;
+  border-collapse: collapse;
   color:#ddd;
+  text-overflow: ellipsis;
 }
 table tbody {
-float:left;
+
 }
 .c_fg1 {
   color: #64C556;
@@ -426,4 +440,8 @@ margin:0;
 
 .pd_logo, .ci_logo {
 max-width:5em;
+}
+
+.index-iphone {
+  max-width:300px;
 }

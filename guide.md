@@ -119,7 +119,7 @@ midiimp:
     - Control Change
     - "✓"
     - "✓"
-    - 1, 7, 10, 65, 69, 71, 72, 73, 75, 76, 107, 120, 123
+    - 1, 7, 10, 65, 69, 71, 72,<br/>73, 75, 76, 107, 120, 123
   pitchbend:
     - Pitch Bend
     -
@@ -469,18 +469,30 @@ Exit the galaxy view.
 
 The settings panel gives you access to app settings like MIDI and Background Audio.
 
+<br />
+
 ![]({{site.baseurl}}/images/guide/world-open-settings.png)<br />
-Tap the settings gear icon on the top left to open the settings panel.
+Tap the settings gear icon on the<br /> top left to open the settings panel.
+
+<br />
+<br />
 
 ![]({{site.baseurl}}/images/guide/settings-seqnotes.png)<br />
 Show or Hide note names in the sequencer.
 
+<br />
+<br />
+
 ![]({{site.baseurl}}/images/guide/settings-activevoices.png)<br />
 Set the number of simultaneous active voics in the mixing dish. <br /> Only the closest are heard.
+
+<br />
+<br />
 
 ![]({{site.baseurl}}/images/guide/settings-playinbg.png)
 Keeping playing audio (and MIDI) from seaquence when the app is in background.
 
+<br />
 
 <a name="midi"></a>
 
@@ -488,22 +500,31 @@ Keeping playing audio (and MIDI) from seaquence when the app is in background.
 
 Find the MIDI settings in the [settings](#settings) panel.
 
-![]({{site.baseurl}}/images/guide/settings-midi.png)
+<br />
 
+![]({{site.baseurl}}/images/guide/settings-midi.png)<br />
 Enable or Disable MIDI
 
-![]({{site.baseurl}}/images/guide/settings-audioengine.png)
+<br />
+<br />
 
+![]({{site.baseurl}}/images/guide/settings-audioengine.png)<br />
 When MIDI is enabled, you have an option to enable or disable Seaquence's internal audio engine -- this saves
 a lot of CPU cycles.
 
-![]({{site.baseurl}}/images/guide/guide-midout.png)
+<br />
+<br />
 
+![]({{site.baseurl}}/images/guide/guide-midout.png)<br />
 Set MIDI latency, and if Seaquence should send Notes, Clock, and/or Midi Control Change (CC) Messages for a specific device. The MIDI latency slider controls the amount of time that MIDI messages are delayed before being sent to increase precision.
 
-![]({{site.baseurl}}/images/guide/guide-midiin.png)
+<br />
+<br />
 
+![]({{site.baseurl}}/images/guide/guide-midiin.png)<br />
 Set if Seaquence should receive Notes, Clock, and/or Midi Control Change (CC) for a specific device.
+
+<br />
 
 ## ENABLING MIDI ON A VOICE
 
@@ -517,18 +538,23 @@ Seaquence sends and receive notes and control-change MIDI messages to/from any c
 ### B MIDI OUT CHANNEL
 1 thru 16
 
+<br />
+
 
 {::options parse_block_html="true" /}
 
 ### MIDI IMPLEMENTATION
 
-<table cellspacing="0" cellpadding="0"><tbody>
+<table cellspacing="0" cellpadding="0">
+  <thead>
   <tr class="seaqfont">
     <th>Function</th>
     <th>Out</th>
     <th>In</th>
     <th style=";min-width:200px;">Remarks</th>
   </tr>
+</thead>
+<tbody>
 {% for midi in page.midiimp %}
   <tr>
       <td>{{ midi[1][0] }}</td>
@@ -539,9 +565,12 @@ Seaquence sends and receive notes and control-change MIDI messages to/from any c
 {% endfor %}
 </tbody></table>
 
+<br/>
+
 ### MIDI CONTROL CHANGE (CC) MESSAGES
 
-<table cellspacing="0" cellpadding="0"><tbody>
+<table cellspacing="0" cellpadding="0">
+  <thead>
   <tr class="seaqfont">
     <th>Control</th>
     <th>Function</th>
@@ -550,6 +579,8 @@ Seaquence sends and receive notes and control-change MIDI messages to/from any c
     <th>In</th>
     <th style=";min-width:200px;">Value/Range</th>
   </tr>
+</thead>
+<tbody>
 {% for midi in page.midi %}
   <tr>
       <td>{{ midi[1][0] }}</td>
@@ -563,7 +594,7 @@ Seaquence sends and receive notes and control-change MIDI messages to/from any c
 </tbody></table>
 
 
-
+<br/><br/>
 
 
 # Congratulations!
@@ -571,4 +602,6 @@ Seaquence sends and receive notes and control-change MIDI messages to/from any c
 You made it through the Seaquence Guide! We hope you enjoy many hours making and sharing your own music and sounds, as well as exploring what other people create.
 
 This guide is updated with new features as they become available.
+
+<br/><br/>
 

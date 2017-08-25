@@ -17,28 +17,28 @@ order: -1
 </div>
 
 <center>
-<img src="{{site.baseurl}}/images/iphone5s_blue_2.png" style="max-width:400px;"/>
+<img src="{{site.baseurl}}/images/iphone5s_blue_2.png" class="index-iphone"/>
 <br />
 
 <h3>
 Seaquence lets you create, modify, and share musical compositions
 <br/>of swimming "planktones" in a spatialized mixing dish.</h3><br />
 
-<img src="{{site.baseurl}}/images/iphone5s_blue_3.png" style="max-width:400px;"/><br />
+<img src="{{site.baseurl}}/images/iphone5s_blue_3.png" class="index-iphone"/><br />
 <h3>
 Each planktone has a voice and a sequencer.
 Only the  <br/> closest are heard as they swim around your view, <br />
 creating a layered and non-linear composition.</h3><br />
 <br />
 
-<img src="{{site.baseurl}}/images/iphone5s_blue.png" style="max-width:400px;"/><br />
+<img src="{{site.baseurl}}/images/iphone5s_blue.png" class="index-iphone"/><br />
 <h3>Seaquence's interface allows you to create a range of musical <br/>
   and sonic characteristics, ranging from ambient drone<br/> to intricately layered rhythms.</h3><br />
 
-<img src="{{site.baseurl}}/images/iphone5s_blue_4.png" style="max-width:400px;"/><br />
+<img src="{{site.baseurl}}/images/iphone5s_blue_4.png" class="index-iphone"/><br />
 <h3>Save your sessions. Post and share them.</h3><br />
 
-<img src="{{site.baseurl}}/images/iphone5s_blue_5.png" style="max-width:400px;"/><br />
+<img src="{{site.baseurl}}/images/iphone5s_blue_5.png" class="index-iphone"/><br />
 <h3>Explore the Seaquence galaxy to listen what others<br /> have shared to get inspired.</h3><br />
 
 <br />
