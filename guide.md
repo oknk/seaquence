@@ -477,6 +477,7 @@ Next page. When navigating, you'll get a previous page icon on the right to go b
 ### E EXIT
 Exit the Galaxy.
 
+<br /><br/>
 
 <a name="settings"></a>
 
@@ -557,7 +558,7 @@ Seaquence sends and receive notes and control-change MIDI messages to/from any V
 
 {::options parse_block_html="true" /}
 
-### MIDI IMPLEMENTATION
+## MIDI IMPLEMENTATION
 
 <table cellspacing="0" cellpadding="0">
   <thead>
@@ -581,7 +582,7 @@ Seaquence sends and receive notes and control-change MIDI messages to/from any V
 
 <br/>
 
-### MIDI CONTROL CHANGE (CC) MESSAGES
+## MIDI CONTROL CHANGE (CC) MESSAGES
 
 <table cellspacing="0" cellpadding="0">
   <thead>
