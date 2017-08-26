@@ -7,6 +7,19 @@ order: -1
 
 {::options parse_block_html="true" /}
 
+<!-- <style>
+.vid {
+
+}
+video {
+position: absolute;
+top:778px;
+left:-4px;
+margin:0 auto;
+width:341px;
+}
+</style> -->
+
 <div class="header-copy" >
   <h3>A beautiful and playful multi-voice synthesizer.</h3>
 </div>
@@ -17,6 +30,15 @@ order: -1
 </div>
 
 <center>
+<!-- <div class="vid">
+<video width="350" height="620">
+  <source src="images/video/iphone-1.mp4" type="video/mp4">
+  <source src="images/video/iphone-1.ogg" type="video/ogg">
+    <source src="images/video/iphone-1.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+</vid> -->
+
 <img src="{{site.baseurl}}/images/iphone5s_blue_2.png" class="index-iphone"/>
 <br />
 
