@@ -63,32 +63,32 @@ midi:
     - 0-127
   attack:
     - Attack
-    - Adjust the amount of attack<br/>(0 - 2secs)
+    - Adjust the amount of attack
     - 73
     - "✓"
     - "✓"
-    - 0-127
+    - 0-127<br/>(0 - 2secs)
   decay:
     - Decay
-    - Adjust the amount of decay<br/>(0 - 2secs)
+    - Adjust the amount of decay
     - 75
     - "✓"
     - "✓"
-    - 0-127
+    - 0-127<br/>(0 - 2secs)
   sustain:
     - Sustain
-    - Adjust the amount of sustain<br/>(0% - 100%)
+    - Adjust the amount of sustain
     - 76
     - "✓"
     - "✓"
-    - 0-127
+    - 0-127<br/>(0% - 100%)
   release:
     - Release
-    - Adjust the amount of release<br/>(0 - 2secs)
+    - Adjust the amount of release
     - 72
     - "✓"
     - "✓"
-    - 0-127
+    - 0-127<br/>(0 - 2secs)
   hold:
     - Note Hold
     - Set Hold on/off. When active release phase will not be triggered.
@@ -98,11 +98,11 @@ midi:
     - 0 (OFF) 127 (ON)
   glide:
     - Glide
-    - Glide (Portomento) time<br />(0 -2secs)
+    - Glide (Portomento) time
     - 65
     - "✓"
     - "✓"
-    - 0-127
+    - 0-127<br />(0-2secs)
 
 midiimp:
   notenumber:
