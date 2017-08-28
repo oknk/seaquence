@@ -183,6 +183,7 @@ Questions? [Contact us](/seaquence/contact).
 <section class="guide">
 
 - [Mixer](#mixer)
+  - Mixing Dish
   - Voices
   - Play / Pause
   - Add
@@ -190,13 +191,13 @@ Questions? [Contact us](/seaquence/contact).
   - Save, Share & Browse
   - Record Audio/Screen
   - Settings
-- [Editor](#editor)
+- [Voice Editor](#voice-editor)
   - [Sequencer](#sequencer)
-    - Mixer
-    - Close Editor
+    - Return to Mixer
+    - Close
     - Add / Clone
     - Solo
-    - Dna Sequencer
+    - Sequencer Matrix
     - Sequencer Timing
     - Swing
     - Glide
@@ -219,7 +220,7 @@ Questions? [Contact us](/seaquence/contact).
     - Delay Time
     - Delay Time (quantized)
     - Delay Feedback
-- [Save & Share](#saveshare)
+- [Save & Share](#save--share)
   - Active Session
   - New Session
   - Close Editor
@@ -244,8 +245,8 @@ Questions? [Contact us](/seaquence/contact).
   - MIDI Out
   - MIDI In
   - Enable/Disable MIDI on a Voice
-  - MIDI Implementation
-  - MIDI Control Change (CC) Messages
+  - [MIDI Implementation](#midi-implementation)
+  - [MIDI Control Change (CC) Messages](#midi-control-change-cc-messages)
 
 </section>
 
@@ -253,11 +254,11 @@ Questions? [Contact us](/seaquence/contact).
 
 <a name="mixer"></a>
 
-# MIXER
+# [MIXER](#mixer)
 
 ![]({{site.baseurl}}/images/guide/guide-mixer.png)
 
-### A MIXER
+### A MIXING DISH
 In the Seaquence mixer, you can drag voices (the swimming creatures) around, as well as the view. Notice how the stereo panning changes as you move voices and the view. Only the closest voices are heard. You'll be able to hear up to 8 voices at once.
 
 ### B VOICES
@@ -283,9 +284,7 @@ App settings.
 
 <br /><br/>
 
-<a name="editor"></a>
-
-# VOICE EDITOR
+# [VOICE EDITOR](#voice-editor)
 
 When you tap on a voice, it opens the voice editor. On the bottom, there are four tabs.
 
@@ -300,9 +299,7 @@ When you tap on a voice, it opens the voice editor. On the bottom, there are fou
 
 <br /><br/>
 
-<a name="sequencer"></a>
-
-# SEQUENCER
+# [SEQUENCER](#sequencer)
 
 ![]({{site.baseurl}}/images/guide/guide-seq.png)
 
@@ -339,9 +336,7 @@ There are three voice modes:
 
 <br /><br/>
 
-<a name="scale"></a>
-
-# SCALE
+# [SCALE](#scale)
 
 ![]({{site.baseurl}}/images/guide/guide-scale.png)
 
@@ -353,9 +348,7 @@ Transposes the scale +/- 12 tones.
 
 <br /><br/>
 
-<a name="envelopes"></a>
-
-# ENVELOPES
+# [ENVELOPES](#envelopes)
 
 ![]({{site.baseurl}}/images/guide/guide-env.png)
 
@@ -390,9 +383,7 @@ Drag in this X/Y handle to morph between four filter modes in the four corners. 
 
 <br /><br/>
 
-<a name="globals"></a>
-
-# GLOBALS
+# [GLOBALS](#globals)
 
 ![]({{site.baseurl}}/images/guide/guide-global.png)
 
@@ -423,9 +414,7 @@ To exit any editor, tap on the MIXER area or tap the close editor icon on the to
 
 <br /><br/>
 
-<a name="saveshare"></a>
-
-# SAVE & SHARE
+# [SAVE & SHARE](#save--share)
 
 ![]({{site.baseurl}}/images/guide/guide-browser.png)
 
@@ -454,9 +443,7 @@ TAP the cloud to get a public and sharable link, and it will appear in the GALAX
 
 <br /><br/>
 
-<a name="explore"></a>
-
-# EXPLORE
+# [EXPLORE](#explore)
 
 ![]({{site.baseurl}}/images/guide/guide-galaxy.png)
 
@@ -479,9 +466,7 @@ Exit the Galaxy.
 
 <br /><br/>
 
-<a name="settings"></a>
-
-# SETTINGS
+# [SETTINGS](#settings)
 
 The settings panel gives you access to various app settings including MIDI and Background Audio.
 
@@ -510,9 +495,7 @@ Keeping playing audio (and MIDI) from seaquence when the app is in background.
 
 <br />
 
-<a name="midi"></a>
-
-# MIDI
+# [MIDI](#midi)
 
 Find the MIDI settings in the [settings](#settings) panel. MIDI allows Seaquence to be a dynamic sequencer that can sequence external gear and other apps.
 
@@ -541,7 +524,7 @@ Set if Seaquence should receive Notes, Clock, and/or Midi Control Change (CC) fo
 
 <br />
 
-## ENABLING MIDI ON A VOICE
+## [ENABLING MIDI ON A VOICE](#enabling-midi-on-a-voice)
 
 Seaquence sends and receive notes and control-change MIDI messages to/from any Voice on any MIDI channel.
 
@@ -558,7 +541,7 @@ Seaquence sends and receive notes and control-change MIDI messages to/from any V
 
 {::options parse_block_html="true" /}
 
-## MIDI IMPLEMENTATION
+## [MIDI IMPLEMENTATION](#midi-implementation)
 
 <table cellspacing="0" cellpadding="0">
   <thead>
@@ -582,7 +565,7 @@ Seaquence sends and receive notes and control-change MIDI messages to/from any V
 
 <br/>
 
-## MIDI CONTROL CHANGE (CC) MESSAGES
+## [MIDI CONTROL CHANGE (CC) MESSAGES](#midi-control-change-cc-messages)
 
 <table cellspacing="0" cellpadding="0">
   <thead>
