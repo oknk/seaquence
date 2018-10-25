@@ -169,7 +169,7 @@ h3::first-letter {
   /*background:#DB2578;*/
   color:#fff;
   padding:0.4em 0.6em;
-  display:block !important;
+  display:inline-block !important;
   border-radius:1.7em;
   border:3px solid #fff;
   margin-right:0.3em;
