@@ -217,7 +217,8 @@ Questions? [Contact us](/seaquence/contact).
     - Volume
     - Tempo
     - Voice Fx-send
-    - Delay Time
+    - Ch 1 Delay Time
+    - Ch 2 Delay Time
     - Delay Time (quantized)
     - Delay Feedback
 - [Save & Share](#save--share)
@@ -401,10 +402,13 @@ Displayed as Beats Per Minute (BPM). Tap this control to set BPM via tap-tempo.
 ### D VOICE FX-SEND
 If you access this panel when a voice is selected, the FX-SEND sets the amount the voice will be heard in the delay effect.
 
-### E DELAY TIME
-Drag in this area left/right to adjust the delay time freely.
+### E CH 1 DELAY TIME
+Drag in this area left/right to adjust the ch 1 delay time freely.
 
-### F DELAY TIME (QUANTIZED)
+### F CH 2 DELAY TIME
+Drag in this area left/right to adjust the ch 2 delay time freely.
+
+### G DELAY TIME (QUANTIZED)
 Drag in this gray area left/right to adjust the delay timing as a quantized value relative to the Tempo/BPM.
 
 ### G DELAY FEEDBACK
