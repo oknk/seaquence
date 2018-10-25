@@ -1,7 +1,7 @@
 
 <div class="featurelist">
 
-## Seaquence version {{ site.app.version }}
+## v{{ site.app.version }}
 
   - Polyphonic synth engine
   - Dynamic spatial mixer and stereo-panning engine
