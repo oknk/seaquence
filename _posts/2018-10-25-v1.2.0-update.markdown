@@ -26,7 +26,7 @@ Tweaks
   - Removed in-app screen recorder in favor of the built-in iOS screen recording feature.
   - Updated various colors and icons
   - Added a link to the Seaquence subreddit /r/seaquence in the Settings panel
-  - Verious bug fixes
+  - Various bug fixes
 
 
 <a href="{{ site.app.storeurl }}">
