@@ -1,6 +1,8 @@
 
 <div class="featurelist">
 
+## Seaquence version {{ site.app.version }}
+
   - Polyphonic synth engine
   - Dynamic spatial mixer and stereo-panning engine
   - Up to 5 note polyphony per voice
@@ -18,6 +20,7 @@
   - 5 waveform shapes: Square, Saw, Tri, Sin, Noise
   - Save your own session presets
   - 30+ included session presets
+  - Landscape and Portrait orientation
   - Social sharing features - post and share links to sessions
   - Session links are maintained — trace back the history of a composition, see who remixed a session
   - Audio and Video recording and export using Apple ReplayKit. Share performances!
@@ -30,7 +33,7 @@
   - Step length subdivision: 1/1 to 1/64, including triplets
   - Portamento/Glide with curve editor
   - Additional monophonic voice modes: Sub-Oscillator tuned to a 5th and Detuned Unison
-  - Delay effect on the master channel with feedback and individual voice fx-send
+  - Stereo Delay effect with independent free or quantized delay time, feedback, and individual voice fx-send for lush, spacial delay effects
   - MIDI notes i/o per voice
   - MIDI cc i/o per voice
   - MIDI clock sync

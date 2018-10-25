@@ -1,5 +1,6 @@
 title: Seaquence
 description: Seaquence App
+
 copyright: Okaynokay
 
 permalink: /blog/:year-:month-:day-:title
@@ -13,5 +14,6 @@ offsiteimgs: http://media.quilime.com/seaqblerg/media
 blogimgs: images/blog
 
 app:
+  version: 1.2.0
   price: $6.99 USD
   storeurl: https://itunes.apple.com/us/app/seaquence/id1106270489
