@@ -411,7 +411,7 @@ Drag in this area left/right to adjust the ch 2 delay time freely.
 ### G DELAY TIME (QUANTIZED)
 Drag in this gray area left/right to adjust the delay timing as a quantized value relative to the Tempo/BPM.
 
-### G DELAY FEEDBACK
+### H DELAY FEEDBACK
 Adjust this to control the delay feedback.
 
 To exit any editor, tap on the MIXER area or tap the close editor icon on the top left of the editor.
